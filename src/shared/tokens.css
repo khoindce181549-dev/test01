@@ -1,0 +1,75 @@
+/**
+ * Design tokens — extracted from docs/design/quiz-builder-design.html.
+ * Source of truth for colors, shadows, radii, and font stacks.
+ * Consumed by admin SPA and frontend quiz via scoped roots (.quizably-admin, .quizably-quiz).
+ *
+ * Note on font families: @fontsource-variable packages register variable fonts
+ * under "<Name> Variable" (e.g. "Fraunces Variable", "Geist Variable"), while
+ * the static @fontsource/geist-mono package registers as "Geist Mono". The
+ * stacks below list the variable name first and the static/system name next so
+ * the cascade works regardless of which file resolves.
+ */
+:root {
+  /* Canvas */
+  --bg-canvas: #FAFAF7;
+  --bg-surface: #FFFFFF;
+  --bg-subtle: #F4F3EE;
+  --bg-muted: #EEEDE6;
+  --bg-inverse: #0A0A0B;
+  --bg-inverse-2: #16161A;
+
+  /* Ink */
+  --ink-1: #0A0A0B;
+  --ink-2: #2A2A2E;
+  --ink-3: #6B6B70;
+  --ink-4: #9A9A9F;
+  --ink-5: #C4C3BE;
+  --ink-on-inverse: #F4F3EE;
+  --ink-on-inverse-muted: #9A9A9F;
+
+  /* Borders */
+  --border-1: #EAE8E1;
+  --border-2: #E0DDD3;
+  --border-3: #CFCBBD;
+  --border-inverse: #27272A;
+
+  /* Brand — orange lockup matching the Quizably logo. */
+  --brand: #FE904D;
+  --brand-hover: #E5783A;
+  --brand-bg: #FEEBDB;
+  --brand-tint: #FFF6EE;
+
+  /* Accent (Pro / warm highlight) */
+  --accent: #D97706;
+  --accent-bg: #FEF3C7;
+  --accent-tint: #FFFBEB;
+
+  /* Semantic */
+  --success: #059669;
+  --success-bg: #D1FAE5;
+  --danger: #DC2626;
+  --danger-bg: #FEE2E2;
+  --info: #0284C7;
+  --info-bg: #E0F2FE;
+
+  /* Shadows */
+  --shadow-xs: 0 1px 2px rgba(10, 10, 11, 0.04);
+  --shadow-sm: 0 1px 2px rgba(10, 10, 11, 0.04), 0 1px 3px rgba(10, 10, 11, 0.06);
+  --shadow-md: 0 4px 6px -1px rgba(10, 10, 11, 0.06), 0 2px 4px -2px rgba(10, 10, 11, 0.04);
+  --shadow-lg: 0 10px 20px -5px rgba(10, 10, 11, 0.08), 0 8px 10px -6px rgba(10, 10, 11, 0.04);
+  --shadow-xl: 0 24px 48px -12px rgba(10, 10, 11, 0.18);
+  --shadow-focus: 0 0 0 3px rgba(79, 70, 229, 0.18);
+
+  /* Radii */
+  --r-xs: 4px;
+  --r-sm: 6px;
+  --r-md: 10px;
+  --r-lg: 14px;
+  --r-xl: 20px;
+  --r-pill: 999px;
+
+  /* Type */
+  --f-display: "Fraunces Variable", "Fraunces", "Cambria", Georgia, serif;
+  --f-sans: "Geist Variable", "Geist", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-mono: "Geist Mono", ui-monospace, "SF Mono", Menlo, monospace;
+}

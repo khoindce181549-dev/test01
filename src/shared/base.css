@@ -1,0 +1,223 @@
+/**
+ * Base reset + typography. Scoped to .quizably-admin (admin SPA) and .quizably-quiz
+ * (frontend quiz). Does NOT touch global html/body/* selectors to avoid
+ * polluting WordPress admin chrome or the site theme.
+ */
+
+.quizably-admin,
+.quizably-quiz {
+  font-family: var(--f-sans);
+  font-size: 15px;
+  line-height: 1.5;
+  color: var(--ink-1);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-feature-settings: "ss01", "ss02", "cv11";
+}
+
+/* Admin SPA is always a full page of its own — always gets the canvas fill. */
+.quizably-admin {
+  background: var(--bg-canvas);
+}
+
+/* Frontend quiz: the generic --bg-canvas reset fill is only correct on the
+   standalone embed page (a full page with nothing else on it, same reason
+   as QuizEmbedHandler's own min-height:100vh). Inline usage (shortcode/
+   block/popup/slide-in) has no page of its own to fill — it should stay
+   transparent against the host page/theme by default. --quizably-quiz-base-bg
+   is set in Quiz.vue's rootStyle from the isEmbed prop. This is independent
+   of --quizably-quiz-bg (the quiz's own Design-tab background colour,
+   applied via .quizably-quiz--page-bg / the card templates' surfaces) —
+   an author-configured background keeps working in every context; this
+   rule only ever supplies the un-configured fallback fill. */
+.quizably-quiz {
+  background: var(--quizably-quiz-base-bg, transparent);
+}
+
+.quizably-admin *,
+.quizably-admin *::before,
+.quizably-admin *::after,
+.quizably-quiz *,
+.quizably-quiz *::before,
+.quizably-quiz *::after {
+  box-sizing: border-box;
+}
+
+.quizably-admin button,
+.quizably-quiz button {
+  font: inherit;
+  color: inherit;
+  cursor: pointer;
+  border: 0;
+  background: transparent;
+}
+
+.quizably-admin input,
+.quizably-admin textarea,
+.quizably-admin select,
+.quizably-quiz input,
+.quizably-quiz textarea,
+.quizably-quiz select {
+  font: inherit;
+  color: inherit;
+}
+
+/* WordPress admin ships `.wp-core-ui select { max-width: 25rem }` from
+   wp-admin/css/forms.css. Inside our SPA every select is already sized
+   by its container (Settings rows, modals, the Logic picker), so the
+   global cap shrinks the field while our absolutely-positioned chevron
+   still anchors to the unshrunk wrapper — the arrow ends up floating
+   far outside the visible select. Override at the admin namespace so
+   every plugin select fills its slot. */
+body.wp-core-ui .quizably-admin select {
+  max-width: none;
+}
+
+.quizably-admin a,
+.quizably-quiz a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.quizably-admin :focus-visible,
+.quizably-quiz :focus-visible {
+  outline: 2px solid var(--brand);
+  outline-offset: 2px;
+  box-shadow: var(--shadow-focus);
+}
+
+.quizably-admin h1,
+.quizably-admin h2,
+.quizably-admin h3,
+.quizably-quiz h1,
+.quizably-quiz h2,
+.quizably-quiz h3 {
+  font-family: var(--f-display);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  margin: 0;
+}
+
+.quizably-admin .label,
+.quizably-admin .eyebrow {
+  font-family: var(--f-mono);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+}
+.quizably-quiz .label,
+.quizably-quiz .eyebrow {
+  font-family: var(--f-mono);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--quizably-quiz-text-subtle, var(--ink-3));
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .quizably-admin *,
+  .quizably-quiz * {
+    animation-duration: 0ms !important;
+    transition-duration: 0ms !important;
+  }
+}
+
+/*
+ * Builder full-screen mode — engaged on /quiz/:id/* routes via a body
+ * class toggled by QuizBuilderView. Hides every piece of WordPress
+ * chrome (admin bar, left admin menu, footer) and the plugin's own
+ * brand bar + primary sidebar so the builder canvas fully owns the
+ * viewport. The plugin's BuilderTopbar (with the back-arrow) is the
+ * only way out and is intentionally preserved.
+ */
+body.quizably-builder-fullscreen #adminmenumain,
+body.quizably-builder-fullscreen #adminmenuwrap,
+body.quizably-builder-fullscreen #adminmenuback,
+body.quizably-builder-fullscreen #wpadminbar,
+body.quizably-builder-fullscreen #wpfooter {
+  display: none !important;
+}
+
+/* WP applies `margin-top: 32px` (or `padding-top` in older versions) to
+   <html> when the admin bar is shown. With the bar hidden, undo it so
+   we don't leave a 32px gap above the builder. The class is also
+   toggled on <html> by QuizBuilderView so this works without :has(). */
+html.quizably-builder-fullscreen {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+body.quizably-builder-fullscreen #wpcontent,
+body.quizably-builder-fullscreen #wpbody-content {
+  /* Logical so it also clears #wpcontent's margin-right in an RTL admin. */
+  margin-inline-start: 0 !important;
+  padding-inline-start: 0 !important;
+}
+
+body.quizably-builder-fullscreen #wpbody-content {
+  padding-bottom: 0 !important;
+}
+
+body.quizably-builder-fullscreen .quizably-admin__topbar {
+  display: none !important;
+}
+
+body.quizably-builder-fullscreen .quizably-admin__main {
+  padding: 0 !important;
+}
+
+/* Lock the entire builder to one viewport so the OUTER page never
+   scrolls. Each pane (plugin sidebar, builder-left, builder-right)
+   handles its own overflow internally. This makes both sidebars feel
+   permanently "sticky" without needing position: sticky on either —
+   the parent simply doesn't scroll. */
+html.quizably-builder-fullscreen,
+body.quizably-builder-fullscreen {
+  height: 100vh !important;
+  overflow: hidden !important;
+}
+
+body.quizably-builder-fullscreen .quizably-admin {
+  height: 100vh !important;
+  min-height: 100vh !important;
+  overflow: hidden !important;
+}
+
+body.quizably-builder-fullscreen .quizably-admin__main {
+  overflow: hidden !important;
+}
+
+body.quizably-builder-fullscreen .quizably-admin__main .builder {
+  margin: 0 !important;
+  height: 100vh !important;
+  min-height: 100vh !important;
+  overflow: hidden !important;
+}
+
+/* ── Shared quiz screen transition: slide (design.animation = 'slide') ──────
+   Used by all frontend templates when the quiz author selects Slide in the
+   Design tab. The template's own fade class is used for 'fade' (default)
+   and empty-string / instant for 'none'. */
+.quizably-screen-slide-enter-active,
+.quizably-screen-slide-leave-active {
+  transition: opacity 200ms ease, transform 200ms ease;
+}
+.quizably-screen-slide-enter-from {
+  opacity: 0;
+  transform: translateX(calc(24px * var(--quizably-dir, 1)));
+}
+.quizably-screen-slide-leave-to {
+  opacity: 0;
+  transform: translateX(calc(-24px * var(--quizably-dir, 1)));
+}
+@media (prefers-reduced-motion: reduce) {
+  .quizably-screen-slide-enter-active,
+  .quizably-screen-slide-leave-active {
+    transition-duration: 0ms;
+  }
+  .quizably-screen-slide-enter-from,
+  .quizably-screen-slide-leave-to {
+    transform: none;
+  }
+}

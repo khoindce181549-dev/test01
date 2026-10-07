@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" font-family="Geist,system-ui,sans-serif">
+  <defs>
+    <linearGradient id="gm-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0A0A0B"/>
+      <stop offset="1" stop-color="#16161A"/>
+    </linearGradient>
+    <linearGradient id="gm-xp" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FBBF24"/>
+      <stop offset="0.6" stop-color="#F87171"/>
+      <stop offset="1" stop-color="#4F46E5"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="400" fill="url(#gm-bg)"/>
+
+  <!-- Faux confetti dots -->
+  <circle cx="80" cy="60" r="3" fill="#FBBF24" opacity="0.8"/>
+  <circle cx="540" cy="80" r="2.5" fill="#A5B4FC"/>
+  <circle cx="600" cy="320" r="3" fill="#34D399"/>
+  <circle cx="56" cy="340" r="2.5" fill="#F87171" opacity="0.8"/>
+
+  <!-- HUD: XP bar + streak -->
+  <g transform="translate(36 36)">
+    <text x="0" y="0" font-family="ui-monospace,Consolas,monospace" font-size="10" fill="#9A9A9F" letter-spacing="2">XP</text>
+    <rect x="0" y="8" width="320" height="10" rx="5" fill="rgba(255,255,255,0.08)"/>
+    <rect x="0" y="8" width="220" height="10" rx="5" fill="url(#gm-xp)"/>
+    <text x="328" y="18" font-family="ui-monospace,Consolas,monospace" font-size="11" fill="#FBBF24" font-weight="600">+250</text>
+  </g>
+  <g transform="translate(488 32)">
+    <rect x="0" y="0" width="116" height="32" rx="16" fill="rgba(251,191,36,0.15)" stroke="rgba(251,191,36,0.4)"/>
+    <text x="14" y="22" font-size="14" fill="#FBBF24">🔥</text>
+    <text x="38" y="21" font-size="13" fill="#FBBF24" font-weight="600">7 streak</text>
+  </g>
+
+  <!-- Question -->
+  <text x="36" y="124" font-family="ui-monospace,Consolas,monospace" font-size="11" fill="#A5B4FC" letter-spacing="2">QUESTION 04 / 10</text>
+  <text x="36" y="184" font-family="Cambria,Georgia,serif" font-size="34" font-weight="600" fill="#fff" letter-spacing="-0.8">What year did the moon</text>
+  <text x="36" y="220" font-family="Cambria,Georgia,serif" font-size="34" font-weight="600" fill="#fff" letter-spacing="-0.8">landing happen?</text>
+
+  <!-- Answer tiles 2x2 -->
+  <g transform="translate(36 252)">
+    <rect x="0" y="0" width="280" height="56" rx="12" fill="rgba(79,70,229,0.18)" stroke="rgba(165,180,252,0.4)"/>
+    <text x="20" y="34" font-size="14" fill="#fff" font-weight="500">A · 1965</text>
+  </g>
+  <g transform="translate(324 252)">
+    <rect x="0" y="0" width="280" height="56" rx="12" fill="rgba(52,211,153,0.18)" stroke="rgba(52,211,153,0.5)"/>
+    <text x="20" y="34" font-size="14" fill="#fff" font-weight="500">B · 1969</text>
+    <path d="M252,28 l-12,12 l-6,-6" stroke="#34D399" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(36 320)">
+    <rect x="0" y="0" width="280" height="56" rx="12" fill="rgba(79,70,229,0.18)" stroke="rgba(165,180,252,0.4)"/>
+    <text x="20" y="34" font-size="14" fill="#fff" font-weight="500">C · 1972</text>
+  </g>
+  <g transform="translate(324 320)">
+    <rect x="0" y="0" width="280" height="56" rx="12" fill="rgba(79,70,229,0.18)" stroke="rgba(165,180,252,0.4)"/>
+    <text x="20" y="34" font-size="14" fill="#fff" font-weight="500">D · 1981</text>
+  </g>
+</svg>

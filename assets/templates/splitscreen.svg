@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" font-family="Geist,system-ui,sans-serif">
+  <rect width="640" height="400" fill="#FAFAF7"/>
+  <!-- Right half: photo placeholder with brand-tinted gradient -->
+  <defs>
+    <linearGradient id="ss-photo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F87171"/>
+      <stop offset="0.5" stop-color="#FBBF24"/>
+      <stop offset="1" stop-color="#4F46E5"/>
+    </linearGradient>
+    <radialGradient id="ss-glow" cx="0.7" cy="0.3" r="0.7">
+      <stop offset="0" stop-color="rgba(255,255,255,0.4)"/>
+      <stop offset="1" stop-color="rgba(255,255,255,0)"/>
+    </radialGradient>
+  </defs>
+  <rect x="320" y="0" width="320" height="400" fill="url(#ss-photo)"/>
+  <rect x="320" y="0" width="320" height="400" fill="url(#ss-glow)"/>
+  <!-- Image suggestion: stylized shapes -->
+  <circle cx="500" cy="180" r="56" fill="#fff" opacity="0.85"/>
+  <circle cx="500" cy="180" r="56" fill="#FBBF24" opacity="0.4"/>
+  <circle cx="430" cy="240" r="22" fill="#fff" opacity="0.7"/>
+
+  <!-- Left half: question + answers -->
+  <text x="32" y="56" font-family="ui-monospace,Consolas,monospace" font-size="11" fill="#9A9A9F" letter-spacing="2">02 OF 05</text>
+  <text x="32" y="124" font-family="Cambria,Georgia,serif" font-size="30" font-weight="500" fill="#0A0A0B" letter-spacing="-0.7">Pick what feels</text>
+  <text x="32" y="158" font-family="Cambria,Georgia,serif" font-size="30" font-weight="500" font-style="italic" fill="#4F46E5" letter-spacing="-0.7">most like you</text>
+
+  <rect x="32" y="200" width="256" height="40" rx="8" fill="#fff" stroke="#EAE8E1"/>
+  <circle cx="48" cy="220" r="4" fill="#9A9A9F"/>
+  <text x="64" y="225" font-size="13" fill="#0A0A0B">Calm and steady</text>
+  <rect x="32" y="248" width="256" height="40" rx="8" fill="#EEF2FF" stroke="#4F46E5"/>
+  <circle cx="48" cy="268" r="4" fill="#4F46E5"/>
+  <text x="64" y="273" font-size="13" fill="#0A0A0B" font-weight="500">Bold and adventurous</text>
+  <rect x="32" y="296" width="256" height="40" rx="8" fill="#fff" stroke="#EAE8E1"/>
+  <circle cx="48" cy="316" r="4" fill="#9A9A9F"/>
+  <text x="64" y="321" font-size="13" fill="#0A0A0B">A bit of both</text>
+</svg>

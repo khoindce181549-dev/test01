@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Classic template preview">
+  <title>Classic template preview</title>
+  <defs>
+    <filter id="cardShadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#0A0A0B" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+
+  <!-- Warm off-white canvas -->
+  <rect width="640" height="400" fill="#FAFAF7"/>
+
+  <!-- Thin progress bar at top (40% filled) -->
+  <rect x="0" y="0" width="640" height="3" fill="#EAE8E1"/>
+  <rect x="0" y="0" width="256" height="3" fill="#4F46E5"/>
+
+  <!-- Centered white card with shadow -->
+  <rect x="80" y="48" width="480" height="316" rx="12" ry="12"
+        fill="#FFFFFF" stroke="#EAE8E1" stroke-width="1" filter="url(#cardShadow)"/>
+
+  <!-- Small "Question 2 of 5" label -->
+  <text x="112" y="96" font-family="Inter, system-ui, sans-serif"
+        font-size="11" font-weight="500" fill="#6B6B6B"
+        letter-spacing="0.08em">QUESTION 2 OF 5</text>
+
+  <!-- Bold serif question title -->
+  <text x="112" y="140" font-family="Cambria, Georgia, 'Times New Roman', serif"
+        font-size="22" font-weight="700" fill="#0A0A0B">
+    Which of these makes you happiest?
+  </text>
+
+  <!-- Four stacked answer pills -->
+  <g font-family="Inter, system-ui, sans-serif" font-size="13" fill="#0A0A0B">
+    <rect x="112" y="168" width="416" height="38" rx="19" ry="19"
+          fill="#FAFAF7" stroke="#EAE8E1" stroke-width="1"/>
+    <text x="136" y="192">A quiet morning with coffee</text>
+
+    <rect x="112" y="214" width="416" height="38" rx="19" ry="19"
+          fill="#FAFAF7" stroke="#EAE8E1" stroke-width="1"/>
+    <text x="136" y="238">A long walk outside</text>
+
+    <rect x="112" y="260" width="416" height="38" rx="19" ry="19"
+          fill="#4F46E5" stroke="#4F46E5" stroke-width="1"/>
+    <text x="136" y="284" fill="#FFFFFF">Dinner with old friends</text>
+
+    <rect x="112" y="306" width="416" height="38" rx="19" ry="19"
+          fill="#FAFAF7" stroke="#EAE8E1" stroke-width="1"/>
+    <text x="136" y="330">Finishing a good book</text>
+  </g>
+</svg>

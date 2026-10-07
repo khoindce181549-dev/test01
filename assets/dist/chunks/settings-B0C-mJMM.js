@@ -1,0 +1,1 @@
+import{l as i}from"./admin-core-EeGjYZVr.js";import{a as t}from"./client-5qnwTF_8.js";const l=i("settings",{state:()=>({map:{},loaded:!1,loading:!1}),actions:{async fetch(){this.loading=!0;try{this.map=await t.get("settings")||{},this.loaded=!0}finally{this.loading=!1}},async update(a,s){const e=await t.put("settings",{[a]:s});this.map={...this.map,...e}}}});export{l as u};

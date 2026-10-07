@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Minimal template preview">
+  <title>Minimal template preview</title>
+
+  <!-- Pure white background -->
+  <rect width="640" height="400" fill="#FFFFFF"/>
+
+  <!-- Very thin 1px progress bar at top edge, indigo (30% filled) -->
+  <rect x="0" y="0" width="640" height="1" fill="#EAE8E1"/>
+  <rect x="0" y="0" width="192" height="1" fill="#4F46E5"/>
+
+  <!-- Tiny step indicator, top-left, muted -->
+  <text x="64" y="72" font-family="Inter, system-ui, sans-serif"
+        font-size="10" font-weight="500" fill="#0A0A0B" opacity="0.45"
+        letter-spacing="0.12em">02 / 05</text>
+
+  <!-- Large left-aligned question title at 80% opacity -->
+  <text x="64" y="140" font-family="Cambria, Georgia, 'Times New Roman', serif"
+        font-size="28" font-weight="600" fill="#0A0A0B" opacity="0.8">
+    Which of these makes you
+  </text>
+  <text x="64" y="174" font-family="Cambria, Georgia, 'Times New Roman', serif"
+        font-size="28" font-weight="600" fill="#0A0A0B" opacity="0.8">
+    happiest?
+  </text>
+
+  <!-- Simple numbered answer lines with letters -->
+  <g font-family="Inter, system-ui, sans-serif" font-size="14">
+    <text x="64" y="234" fill="#0A0A0B" opacity="0.85">
+      <tspan fill="#4F46E5" font-weight="600">A.</tspan>
+      <tspan dx="10">A quiet morning with coffee</tspan>
+    </text>
+    <line x1="64" y1="246" x2="576" y2="246" stroke="#EAE8E1" stroke-width="1"/>
+
+    <text x="64" y="276" fill="#0A0A0B" opacity="0.85">
+      <tspan fill="#4F46E5" font-weight="600">B.</tspan>
+      <tspan dx="10">A long walk outside</tspan>
+    </text>
+    <line x1="64" y1="288" x2="576" y2="288" stroke="#EAE8E1" stroke-width="1"/>
+
+    <text x="64" y="318" fill="#0A0A0B" opacity="0.85">
+      <tspan fill="#4F46E5" font-weight="600">C.</tspan>
+      <tspan dx="10">Dinner with old friends</tspan>
+    </text>
+    <line x1="64" y1="330" x2="576" y2="330" stroke="#EAE8E1" stroke-width="1"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+/**
+ * Self-hosted font imports. Variable fonts minimize transfer size.
+ * No external CDN calls — GDPR-friendly and WP.org-guideline-compliant.
+ *
+ * Fraunces + Geist ship variable versions (100..900 in a single woff2).
+ * Geist Mono has no variable build on fontsource yet, so we explicitly
+ * import the 400/500/600 static weights used by the design system.
+ */
+@import "@fontsource-variable/fraunces/index.css";
+@import "@fontsource-variable/geist/index.css";
+@import "@fontsource/geist-mono/400.css";
+@import "@fontsource/geist-mono/500.css";
+@import "@fontsource/geist-mono/600.css";

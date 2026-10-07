@@ -1,0 +1,21 @@
+/*
+ * Admin SPA RTL helpers. WordPress sets dir="rtl" on <html> for RTL locales;
+ * everything with a logical CSS equivalent is written with logical properties
+ * in the components. This file only holds what has no logical equivalent.
+ */
+
+/* Directional glyphs (chevrons, "next" arrows) mirror with the reading direction.
+   Do NOT put this class on non-directional icons (checks, logos, media). */
+.q-flip-rtl:dir(rtl) {
+  display: inline-block;
+  transform: scaleX(-1);
+}
+
+/* Machine-readable values stay left-to-right so an RTL page cannot scramble
+   them: code/shortcode snippets, and URL / e-mail / phone / number / password
+   fields. Modal and Drawer teleport to <body>, so they are listed explicitly. */
+:is(.quizably-admin, .quizably-modal__backdrop, .quizably-drawer__backdrop) :is(code, pre, kbd, samp),
+:is(.quizably-admin, .quizably-modal__backdrop, .quizably-drawer__backdrop) input:is([type='url'], [type='email'], [type='tel'], [type='number'], [type='password']) {
+  direction: ltr;
+  unicode-bidi: isolate;
+}

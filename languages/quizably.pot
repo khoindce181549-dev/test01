@@ -1,0 +1,6544 @@
+# Copyright (C) 2026 Quizably
+# This file is distributed under the GPL-2.0-or-later license.
+msgid ""
+msgstr ""
+"Project-Id-Version: Quizably 1.2.0\n"
+"Report-Msgid-Bugs-To: https://wpgrowkit.com/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Domain: quizably\n"
+"MIME-Version: 1.0\n"
+"POT-Creation-Date: 2026-10-05T15:16:34.156Z\n"
+
+#: src/admin/api/client.js
+#: src/frontend/api/client.js
+msgid "Request failed"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "A confidential wellbeing check covering workload, support, and engagement."
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "A fun personality quiz revealing your coffee spirit — pour over, espresso, latte, or cold brew."
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "A quick 3-question check-in on customer satisfaction and top priorities."
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Are you the guardian, the avenger, the mastermind, or the wild card? Find your archetype."
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Assess your marketing maturity — strategy, content, data, channels, and automation."
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Best Dev Tool Showdown"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Best JavaScript Framework Poll"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Blast off with questions about space exploration, planets, and the cosmos."
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Card Stack"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Classic"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Collect structured customer feedback to improve your product or service."
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Content Creator Intake"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Conversational"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Discover how you absorb information best — visual, auditory, reading/writing, or kinesthetic."
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Discover your travel personality — adventure seeker, culture lover, beach bum, or city explorer."
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Discover your writing voice — storyteller, analyst, poet, or journalist."
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Employee Wellbeing Check"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Event Satisfaction Survey"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Favorite Social Platform Poll"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Find out how you get things done — deep worker, sprint planner, collaborator, or creative chaos."
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Find the career path that fits your strengths — creator, analyst, leader, or builder."
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Football Legends Challenge"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Full Screen"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Gamified"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Gather post-event feedback to improve your future events and experiences."
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Guide customers to the right product tier through smart qualifying questions."
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "How much do you know about the beautiful game and its greatest players and moments?"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "How much do you know about world sports championships and legendary moments?"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "How well do you know the biggest moments in movies, music, gaming, and streaming?"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Identify your leadership style — visionary, servant leader, or democratic."
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "IT Support Triage"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Leadership Style Inventory"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Lights, camera, action! Test your movie knowledge across genres and decades."
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Magazine"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Marketing Maturity Assessment"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Measure team health with questions on collaboration, communication, and morale."
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Minimal"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Movie Night Quiz"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Pop Culture Trivia 2024"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Product Feedback Survey"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Product Recommendation Finder"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Qualify new content creator partnerships with this structured intake form."
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Quick Customer Pulse"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Remote vs Office Poll"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Remote, hybrid, or office? Share your preferred way of working."
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Route IT support tickets intelligently based on device, issue type, and urgency."
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Science Myths vs Facts"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Separate fact from fiction — can you bust these popular science myths?"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Space Exploration Trivia"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Split Screen"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Sports Championship Challenge"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Team Culture Check"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Test your world geography knowledge — capitals, rivers, countries, and fascinating facts."
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Uncover your money personality — are you a saver, investor, spender, or avoider?"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "What Career Path Suits You?"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "What Season Matches Your Personality?"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "What Writing Style Are You?"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "What's Your Learning Style?"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "What's Your Money Personality?"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "What's Your Productivity Style?"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "What's Your Travel Style?"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Which Coffee Are You?"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Which development tool or IDE is your daily driver? Vote and see the results!"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Which JavaScript framework do you prefer? Cast your vote and see live results."
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Which season matches your energy — vibrant spring, bold summer, cozy autumn, or quiet winter?"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Which social media platform do you spend the most time on? Vote now!"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "Which Superhero Archetype Are You?"
+msgstr ""
+
+#: src/admin/data/presets.js
+msgid "World Geography Speed Run"
+msgstr ""
+
+#: src/admin/layouts/AppLayout.vue
+msgid "Build"
+msgstr ""
+
+#: src/admin/layouts/AppLayout.vue
+msgid "Collapse"
+msgstr ""
+
+#: src/admin/layouts/AppLayout.vue
+msgid "Collapse sidebar"
+msgstr ""
+
+#: src/admin/layouts/AppLayout.vue
+msgid "Engage"
+msgstr ""
+
+#: src/admin/layouts/AppLayout.vue
+msgid "Expand sidebar"
+msgstr ""
+
+#: src/admin/layouts/AppLayout.vue
+msgid "Help & docs"
+msgstr ""
+
+#: src/admin/layouts/AppLayout.vue
+msgid "Primary navigation"
+msgstr ""
+
+#: src/admin/layouts/AppLayout.vue
+msgid "Primary navigation (collapsed)"
+msgstr ""
+
+#: src/admin/layouts/AppLayout.vue
+msgid "Quizably — go to dashboard"
+msgstr ""
+
+#: src/admin/layouts/AppLayout.vue
+msgid "Quizzes"
+msgstr ""
+
+#: src/admin/layouts/AppLayout.vue
+msgid "System"
+msgstr ""
+
+#: src/admin/stores/quizBuilder.js
+msgid "Answer A"
+msgstr ""
+
+#: src/admin/stores/quizBuilder.js
+msgid "Answer B"
+msgstr ""
+
+#: src/admin/ui/BackgroundControl.vue
+msgid "Override the quiz-level Design background just for this screen."
+msgstr ""
+
+#: src/admin/ui/ConfirmDialog.vue
+msgid "Confirm"
+msgstr ""
+
+#: src/admin/ui/MediaPicker.vue
+msgid "Choose from media library"
+msgstr ""
+
+#: src/admin/ui/MediaPicker.vue
+msgid "Enter media URL"
+msgstr ""
+
+#: src/admin/ui/MediaPicker.vue
+msgid "PNG · JPG · SVG"
+msgstr ""
+
+#: src/admin/ui/MediaPicker.vue
+msgid "Remove media"
+msgstr ""
+
+#: src/admin/ui/MediaPicker.vue
+msgid "Select media"
+msgstr ""
+
+#: src/admin/ui/MediaPicker.vue
+msgid "Use this"
+msgstr ""
+
+#: src/admin/ui/RichTextEditor.vue
+msgid "Bold (Ctrl+B)"
+msgstr ""
+
+#: src/admin/ui/RichTextEditor.vue
+msgid "Bullet list"
+msgstr ""
+
+#: src/admin/ui/RichTextEditor.vue
+msgid "Formatting"
+msgstr ""
+
+#: src/admin/ui/RichTextEditor.vue
+msgid "Heading-size"
+msgstr ""
+
+#: src/admin/ui/RichTextEditor.vue
+msgid "Italic (Ctrl+I)"
+msgstr ""
+
+#: src/admin/ui/RichTextEditor.vue
+msgid "Large text"
+msgstr ""
+
+#: src/admin/ui/RichTextEditor.vue
+msgid "Link"
+msgstr ""
+
+#: src/admin/ui/RichTextEditor.vue
+msgid "Link URL"
+msgstr ""
+
+#: src/admin/ui/RichTextEditor.vue
+msgid "Normal text"
+msgstr ""
+
+#: src/admin/ui/RichTextEditor.vue
+msgid "Numbered list"
+msgstr ""
+
+#: src/admin/ui/RichTextEditor.vue
+msgid "Quote"
+msgstr ""
+
+#: src/admin/ui/RichTextEditor.vue
+msgid "Small text"
+msgstr ""
+
+#: src/admin/ui/RichTextEditor.vue
+msgid "Text formatting"
+msgstr ""
+
+#: src/admin/ui/RichTextEditor.vue
+msgid "Underline (Ctrl+U)"
+msgstr ""
+
+#: src/admin/ui/Toast.vue
+#: src/frontend/Quiz.vue
+msgid "Dismiss"
+msgstr ""
+
+#: src/admin/utils/emailBody.js
+msgid "A link to your Leads page"
+msgstr ""
+
+#: src/admin/utils/emailBody.js
+msgid "The email they entered in the form"
+msgstr ""
+
+#: src/admin/utils/emailBody.js
+msgid "The name of the quiz that was taken"
+msgstr ""
+
+#: src/admin/utils/emailBody.js
+msgid "The name of your site"
+msgstr ""
+
+#: src/admin/utils/emailBody.js
+msgid "The name they entered in the form"
+msgstr ""
+
+#: src/admin/utils/emailBody.js
+msgid "The result the visitor got"
+msgstr ""
+
+#: src/admin/utils/emailBody.js
+msgid "Their score"
+msgstr ""
+
+#: src/admin/utils/emailBody.js
+msgid "When they finished the quiz"
+msgstr ""
+
+#: src/admin/utils/relativeTime.js
+msgid "%dd ago"
+msgstr ""
+
+#: src/admin/utils/relativeTime.js
+msgid "%dh ago"
+msgstr ""
+
+#: src/admin/utils/relativeTime.js
+msgid "%dm ago"
+msgstr ""
+
+#: src/admin/utils/relativeTime.js
+msgid "%dw ago"
+msgstr ""
+
+#: src/admin/utils/relativeTime.js
+msgid "just now"
+msgstr ""
+
+#: src/admin/views/builder/AnswerRow.vue
+msgid "Alt text (accessibility)"
+msgstr ""
+
+#: src/admin/views/builder/AnswerRow.vue
+msgid "Answer %s alt text"
+msgstr ""
+
+#: src/admin/views/builder/AnswerRow.vue
+msgid "Answer %s image URL"
+msgstr ""
+
+#: src/admin/views/builder/AnswerRow.vue
+msgid "Answer %s label"
+msgstr ""
+
+#: src/admin/views/builder/AnswerRow.vue
+msgid "Answer actions"
+msgstr ""
+
+#: src/admin/views/builder/AnswerRow.vue
+msgid "Clear mapping"
+msgstr ""
+
+#: src/admin/views/builder/AnswerRow.vue
+msgid "Correct answer"
+msgstr ""
+
+#: src/admin/views/builder/AnswerRow.vue
+msgid "Delete answer"
+msgstr ""
+
+#: src/admin/views/builder/AnswerRow.vue
+msgid "No results yet — add them in the Results tab."
+msgstr ""
+
+#: src/admin/views/builder/AnswerRow.vue
+msgid "Points"
+msgstr ""
+
+#: src/admin/views/builder/AnswerRow.vue
+msgid "Pts"
+msgstr ""
+
+#: src/admin/views/builder/BuilderTopbar.vue
+msgid "%s You are still on this step."
+msgstr ""
+
+#: src/admin/views/builder/BuilderTopbar.vue
+msgid "All changes have been written."
+msgstr ""
+
+#: src/admin/views/builder/BuilderTopbar.vue
+msgid "Back to %s"
+msgstr ""
+
+#: src/admin/views/builder/BuilderTopbar.vue
+msgid "Continue to %s"
+msgstr ""
+
+#: src/admin/views/builder/BuilderTopbar.vue
+msgid "Could not save title"
+msgstr ""
+
+#: src/admin/views/builder/BuilderTopbar.vue
+msgid "Done"
+msgstr ""
+
+#: src/admin/views/builder/BuilderTopbar.vue
+msgid "Edit title"
+msgstr ""
+
+#: src/admin/views/builder/BuilderTopbar.vue
+msgid "Next: %s"
+msgstr ""
+
+#: src/admin/views/builder/BuilderTopbar.vue
+msgid "Not saved yet"
+msgstr ""
+
+#: src/admin/views/builder/BuilderTopbar.vue
+msgid "On the first step"
+msgstr ""
+
+#: src/admin/views/builder/BuilderTopbar.vue
+msgid "On the last step"
+msgstr ""
+
+#: src/admin/views/builder/BuilderTopbar.vue
+msgid "Saved %dh ago"
+msgstr ""
+
+#: src/admin/views/builder/BuilderTopbar.vue
+msgid "Saved %dm ago"
+msgstr ""
+
+#: src/admin/views/builder/BuilderTopbar.vue
+msgid "Saved just now"
+msgstr ""
+
+#: src/admin/views/builder/design/CardstackPreview.vue
+msgid "← Skip"
+msgstr ""
+
+#: src/admin/views/builder/design/CardstackPreview.vue
+#: src/shared/formPlacement.js
+msgid "Continue"
+msgstr ""
+
+#: src/admin/views/builder/design/ConversationalPreview.vue
+msgid "Tap an option, or type to send a custom answer…"
+msgstr ""
+
+#: src/admin/views/builder/design/MagazinePreview.vue
+msgid "Choose the option that resonates most. There are no wrong answers — just the one that's most you."
+msgstr ""
+
+#: src/admin/views/builder/design/MagazinePreview.vue
+msgid "Issue %1$d · %2$d questions"
+msgstr ""
+
+#: src/admin/views/builder/DesignDrawer.vue
+msgid "Close design settings"
+msgstr ""
+
+#: src/admin/views/builder/DesignDrawer.vue
+#: src/admin/views/builder/BuilderTopbar.vue
+msgid "Design settings"
+msgstr ""
+
+#: src/admin/views/builder/DesignDrawer.vue
+#: src/admin/views/builder/BuilderTopbar.vue
+#: src/shared/i18n.js
+msgid "Save"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "%s is now active."
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Accent"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Animation"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "auto"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Background image"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Background opacity"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Brand"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Button style"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Card"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Card width"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Card width unit"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Content align"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Content position"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Could not apply template"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Could not reset colors"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Could not save design"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Custom CSS"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Dark tone"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Default"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Fade"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Fills the article area behind the quiz content. The masthead always shows in the text colour."
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Fills the image panel on the left side. Your Background color fills the right content panel."
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Fills the quiz stage area behind the questions. The header bar always shows the brand colours."
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Full screen"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Full width"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Full-bleed background"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Google Fonts available with the Pro upgrade."
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Height unit"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Image panel width"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Image position"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Image side"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Image width"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Inner content width"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Inner width"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Inner width constrains the readable content column inside the container. Useful for wide cards or full-width mode."
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Inner width unit"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Layout"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Layout mode"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Looping video backgrounds available with Pro."
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Max width"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Max width unit"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Min height"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Min height unit"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+#: src/admin/ui/BackgroundControl.vue
+msgid "Overlay"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+#: src/admin/ui/BackgroundControl.vue
+msgid "Overlay color"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Overlay tints the article area only."
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Overlay tints the image panel only — the content panel is unaffected."
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Overlay tints the stage area only."
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Panel image"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Panel size"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Pro animation"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Set 100vw × 100vh"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Show card border"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Slide"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Template applied"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Text size"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+#: src/admin/ui/BackgroundControl.vue
+msgid "Tint the background to make text more readable. Set opacity to 0% to disable."
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Typography"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Use a dark overlay color so white text stays readable over bright images. A light overlay will wash out the text."
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Width"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Zoom (Pro)"
+msgstr ""
+
+#: src/admin/views/builder/DesignTab.vue
+msgid "Zoom transitions require Quizably Pro."
+msgstr ""
+
+#: src/admin/views/builder/FormPreview.vue
+msgid "%s · optional"
+msgstr ""
+
+#: src/admin/views/builder/FormPreview.vue
+msgid "%s · required"
+msgstr ""
+
+#: src/admin/views/builder/FormPreview.vue
+msgid "Add a subheading…"
+msgstr ""
+
+#: src/admin/views/builder/FormPreview.vue
+msgid "Field"
+msgstr ""
+
+#: src/admin/views/builder/FormPreview.vue
+msgid "Form · %s"
+msgstr ""
+
+#: src/admin/views/builder/FormPreview.vue
+msgid "Form · Results ahead"
+msgstr ""
+
+#: src/admin/views/builder/FormPreview.vue
+msgid "Form description"
+msgstr ""
+
+#: src/admin/views/builder/FormPreview.vue
+#: src/frontend/screens/Form.vue
+msgid "Form image"
+msgstr ""
+
+#: src/admin/views/builder/FormPreview.vue
+msgid "Form is off"
+msgstr ""
+
+#: src/admin/views/builder/FormPreview.vue
+msgid "Form title"
+msgstr ""
+
+#: src/admin/views/builder/FormPreview.vue
+#: src/admin/views/builder/AnswerRow.vue
+msgid "Image URL"
+msgstr ""
+
+#: src/admin/views/builder/FormPreview.vue
+msgid "Open form properties"
+msgstr ""
+
+#: src/admin/views/builder/FormPreview.vue
+#: src/frontend/screens/Form.vue
+msgid "Skip"
+msgstr ""
+
+#: src/admin/views/builder/FormPreview.vue
+msgid "Visitors take the quiz without entering any details. Under %1$s, choose %2$s or %3$s to capture leads."
+msgstr ""
+
+#: src/admin/views/builder/FormProperties.vue
+msgid "%d active"
+msgstr ""
+
+#: src/admin/views/builder/FormProperties.vue
+msgid "%s is always required"
+msgstr ""
+
+#: src/admin/views/builder/FormProperties.vue
+#: src/admin/views/builder/DesignTab.vue
+msgid "Advanced"
+msgstr ""
+
+#: src/admin/views/builder/FormProperties.vue
+#: src/admin/views/builder/FormPreview.vue
+msgid "Before quiz"
+msgstr ""
+
+#: src/admin/views/builder/FormProperties.vue
+msgid "Can visitors skip the form?"
+msgstr ""
+
+#: src/admin/views/builder/FormProperties.vue
+msgid "Custom field"
+msgstr ""
+
+#: src/admin/views/builder/FormProperties.vue
+msgid "Disable %s"
+msgstr ""
+
+#: src/admin/views/builder/FormProperties.vue
+msgid "Empty = checkbox hidden on the live form. Required by GDPR for EU visitors."
+msgstr ""
+
+#: src/admin/views/builder/FormProperties.vue
+#: src/admin/views/builder/FormPreview.vue
+msgid "End of quiz"
+msgstr ""
+
+#: src/admin/views/builder/FormProperties.vue
+msgid "Fields"
+msgstr ""
+
+#: src/admin/views/builder/FormProperties.vue
+msgid "Full image visible, letterboxed if needed."
+msgstr ""
+
+#: src/admin/views/builder/FormProperties.vue
+msgid "GDPR consent text"
+msgstr ""
+
+#: src/admin/views/builder/FormProperties.vue
+msgid "Image fills the slot — edges may be cropped."
+msgstr ""
+
+#: src/admin/views/builder/FormProperties.vue
+msgid "Image tiles to fill the slot."
+msgstr ""
+
+#: src/admin/views/builder/FormProperties.vue
+#: src/admin/views/builder/FormPreview.vue
+msgid "Jane Doe"
+msgstr ""
+
+#: src/admin/views/builder/FormProperties.vue
+#: src/admin/views/builder/FormPreview.vue
+msgid "Mid-quiz"
+msgstr ""
+
+#: src/admin/views/builder/FormProperties.vue
+msgid "No — visitors have to fill it in to continue."
+msgstr ""
+
+#: src/admin/views/builder/FormProperties.vue
+#: src/admin/views/builder/FormPreview.vue
+msgid "Off"
+msgstr ""
+
+#: src/admin/views/builder/FormProperties.vue
+msgid "Optional form"
+msgstr ""
+
+#: src/admin/views/builder/FormProperties.vue
+msgid "Placeholder"
+msgstr ""
+
+#: src/admin/views/builder/FormProperties.vue
+msgid "Pro — shown between two questions to break the flow."
+msgstr ""
+
+#: src/admin/views/builder/FormProperties.vue
+#: src/admin/views/builder/FormPreview.vue
+msgid "Required"
+msgstr ""
+
+#: src/admin/views/builder/FormProperties.vue
+msgid "Send a confirmation email and only mark the lead as confirmed once they click the link."
+msgstr ""
+
+#: src/admin/views/builder/FormProperties.vue
+#: src/admin/views/builder/FormPreview.vue
+msgid "Show the form"
+msgstr ""
+
+#: src/admin/views/builder/FormProperties.vue
+msgid "Shown after the last question, right before the result."
+msgstr ""
+
+#: src/admin/views/builder/FormProperties.vue
+msgid "Shown between two questions to break the flow."
+msgstr ""
+
+#: src/admin/views/builder/FormProperties.vue
+msgid "Shown first, before the quiz begins."
+msgstr ""
+
+#: src/admin/views/builder/FormProperties.vue
+msgid "Submit button label"
+msgstr ""
+
+#: src/admin/views/builder/FormProperties.vue
+msgid "The form is off. No leads will be collected for this quiz."
+msgstr ""
+
+#: src/admin/views/builder/FormProperties.vue
+msgid "Where to show the form"
+msgstr ""
+
+#: src/admin/views/builder/FormProperties.vue
+msgid "Yes — visitors get a Skip button and can carry on without filling it in."
+msgstr ""
+
+#: src/admin/views/builder/FormProperties.vue
+#: src/admin/views/builder/FormPreview.vue
+msgid "you@example.com"
+msgstr ""
+
+#: src/admin/views/builder/FormTab.vue
+msgid "Form properties"
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "(optional)"
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "%d connected"
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Add leads to a Mailchimp audience."
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Add webhook"
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "API Secret"
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Available on every quiz"
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Available with Pro"
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Configure your API key in the integration settings to start delivering leads."
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Create contacts in Brevo (Sendinblue)."
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Delete webhook %s"
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Disable webhook"
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Disable webhook %s"
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "e.g. Zapier"
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+#: src/admin/views/builder/FormProperties.vue
+msgid "Enable %s"
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Enable webhook"
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Enable webhook %s"
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Enter a URL first"
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Group ID"
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "HMAC signing secret"
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "HTTP %s"
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+#: src/admin/views/builder/FormProperties.vue
+msgid "Label"
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Leave blank to use the account default."
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "List ID"
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "No webhooks configured yet."
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Paste your API key"
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Paste your API secret"
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "POST JSON of each submission to your endpoint. Plays nicely with Zapier, Make, n8n, or any HTTPS service."
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Premium connectors"
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Secret"
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Send leads and submissions where they need to go with a webhook."
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Send leads and submissions where they need to go. Webhook is free; marketing and CRM integrations unlock with Pro."
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Send test"
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Sending…"
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Sent when the lead form is submitted (event: lead_captured) and when the quiz is completed (event: submission_completed, which includes the lead). A failed delivery is retried up to 3 times, after about 1, 2 and 4 minutes."
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Sync leads to ActiveCampaign as contacts."
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Test delivered"
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Test failed"
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Test webhook %s"
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Trigger Zaps from each submission."
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "URL"
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Webhook"
+msgstr ""
+
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Webhook URL"
+msgstr ""
+
+#: src/admin/views/builder/IntroPreview.vue
+msgid "%d result"
+msgstr ""
+
+#: src/admin/views/builder/IntroPreview.vue
+#: src/frontend/screens/Intro.vue
+msgid "~%d min"
+msgstr ""
+
+#: src/admin/views/builder/IntroPreview.vue
+msgid "A short hook explaining what the quiz is about."
+msgstr ""
+
+#: src/admin/views/builder/IntroPreview.vue
+#: src/frontend/screens/Intro.vue
+msgid "Intro image"
+msgstr ""
+
+#: src/admin/views/builder/IntroPreview.vue
+msgid "Intro subtitle"
+msgstr ""
+
+#: src/admin/views/builder/IntroPreview.vue
+msgid "Intro title"
+msgstr ""
+
+#: src/admin/views/builder/IntroPreview.vue
+msgid "Open intro properties"
+msgstr ""
+
+#: src/admin/views/builder/IntroPreview.vue
+msgid "Ready to find out?"
+msgstr ""
+
+#: src/admin/views/builder/IntroPreview.vue
+msgid "Welcome · %d question"
+msgstr ""
+
+#: src/admin/views/builder/IntroPreview.vue
+msgid "Welcome screen"
+msgstr ""
+
+#: src/admin/views/builder/IntroProperties.vue
+msgid "Display"
+msgstr ""
+
+#: src/admin/views/builder/IntroProperties.vue
+#: src/admin/views/builder/FormProperties.vue
+msgid "Labels"
+msgstr ""
+
+#: src/admin/views/builder/IntroProperties.vue
+msgid "Remove image"
+msgstr ""
+
+#: src/admin/views/builder/IntroProperties.vue
+msgid "Start button label"
+msgstr ""
+
+#: src/admin/views/builder/IntroProperties.vue
+#: src/admin/views/builder/IntroPreview.vue
+#: src/frontend/screens/Intro.vue
+#: src/shared/formPlacement.js
+msgid "Start quiz"
+msgstr ""
+
+#: src/admin/views/builder/IntroTab.vue
+msgid "Intro properties"
+msgstr ""
+
+#: src/admin/views/builder/LogicProUpsell.vue
+msgid "Activate Pro to enable this tab."
+msgstr ""
+
+#: src/admin/views/builder/LogicProUpsell.vue
+msgid "Branching logic lets one quiz behave like many — different questions, skip ahead, or jump straight to a result based on answers."
+msgstr ""
+
+#: src/admin/views/builder/LogicProUpsell.vue
+msgid "if A"
+msgstr ""
+
+#: src/admin/views/builder/LogicProUpsell.vue
+msgid "if B"
+msgstr ""
+
+#: src/admin/views/builder/LogicProUpsell.vue
+msgid "Lead-qualifier flows with the Branching quiz type"
+msgstr ""
+
+#: src/admin/views/builder/LogicProUpsell.vue
+msgid "Learn about Pro"
+msgstr ""
+
+#: src/admin/views/builder/LogicProUpsell.vue
+msgid "Logic & branching"
+msgstr ""
+
+#: src/admin/views/builder/LogicProUpsell.vue
+msgid "Per-answer rules — <em>if \"Beginner\" → jump to Q5</em>"
+msgstr ""
+
+#: src/admin/views/builder/LogicProUpsell.vue
+msgid "Question 1"
+msgstr ""
+
+#: src/admin/views/builder/LogicProUpsell.vue
+msgid "Question 2"
+msgstr ""
+
+#: src/admin/views/builder/LogicProUpsell.vue
+msgid "Question 5"
+msgstr ""
+
+#: src/admin/views/builder/LogicProUpsell.vue
+msgid "Send people down different paths"
+msgstr ""
+
+#: src/admin/views/builder/LogicProUpsell.vue
+msgid "Skip questions, end early, or route to a specific result"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "A decision tree. Build the question pool, then wire up the branches in the Logic tab — each answer can jump to a different question or end the quiz."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "A great hook gets people to start. Add a title, image, and quick description."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "A single multiple-choice question. After submission, every visitor sees the running result."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Add 2–6 answer options. Polls work best with short, punchy choices."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Add a hook (optional)"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Add a Per-question timer (Pro) for \"rapid fire\" feel."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Add branching (optional)"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Add every possible question"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Add questions and map answers"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Add questions and mark the correct answer"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Add questions with weighted answers"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Add the result screen"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Add your questions"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Aim for 5–10 questions. Shorter completes better."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Always set a \"default\" branch on every question — otherwise visitors get stuck."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Answer review and other per-quiz behavior controls live here."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Auto-advance, answer review and other per-quiz behavior controls live here."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Auto-advance, answer review, anything quiz-wide."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Auto-advance, answer review, etc."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Be upfront about what you'll do with the data."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Branching / lead qualifier"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Branching quizzes are usually qualifiers — be specific about who they're for."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Brand color, fonts, layout — keep it on-brand."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Build the full pool first — branches reference these by id."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Build the full pool of questions your quiz will ask."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Build the question pool, then define an endpoint for every outcome."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Capture leads"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Capture leads (optional)"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Collect email before showing the result, or after — your call."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Collect responses, show one tailored result"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Common pattern: gate the result behind email so you can deliver it personalized."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Conversational template often pairs well with branching."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Create one result per dimension. The \"weights\" you assign on answers reference these."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Create the personalities or archetypes a visitor can land on (e.g. \"Adventurer\", \"Analyst\")."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Customize the tally screen"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Define endpoints"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Define score bands"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Define your categories"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Define your results"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Different paths for different people"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Don't set point values higher than 1 unless some questions are weighted heavier."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Drag connections in the Logic editor: each answer goes to a question or ends the quiz."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Each answer adds points to one or more categories (think Big-Five, OCEAN, archetypes). The dominant category — or full score profile — drives the result."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Each answer carries a weight per category. Set positive weights to add, negative to subtract."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Each answer is correct or incorrect. Right answers add points; the final score lands the visitor in a band (\"Beginner\", \"Expert\", etc.)."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Each answer points to one result. The result with the most points wins."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Each submission is posted to your webhook."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Each submission posted to webhook / Mailchimp / etc."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Each vote becomes a row."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Email gate or post-quiz — your call."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Embed in a blog post via the [quizably_quiz id=\"...\"] shortcode."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Every answer must map to exactly one result — visitors who skip mappings end up on a random result."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Final tweaks"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "For each question, tick which answer is right and how many points it's worth."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Gate the result, or skip — many trivia quizzes don't need a lead form."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "GDPR consent text lives here."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Keep it short — long quizzes lose people before the last question."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Keep the tree shallow — deep branches kill completion."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Keep weights small (1–5). Big numbers swing the result on a single answer."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Match every visitor to one of your results"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Match your brand."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Mix single-choice, multi-choice, and (with Pro) text/slider/rating."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Mix single-choice, multi-choice, and true/false questions."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Most polls don't — but you can."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Negative weights work — useful for \"this answer rules out this category\"."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "No scoring — every visitor reaches the same result screen. Use this for feedback, NPS-lite, or a simple lead magnet."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "One question, live tally"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "One result per \"leaf\" of the tree."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "One screen with thank-you copy and any next-step CTA."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Open"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Optional — defaults work fine."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Optional timer, randomize, etc."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Personality quiz"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Pick a compact template — polls embed well in sidebars."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Pick a template and colors that fit who the quiz is for."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Pick a template and colors that match the topic."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Pick a template, brand color, fonts. Looks like your site, not a generic plugin."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Place the form at the start (gate) for high-intent qualifiers."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Polls don't use Logic — there's only one question, nowhere to branch."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Polls usually skip the intro and jump straight to the question."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Results get tied. The first one wins by default; reorder them in the Results tab so the \"preferred\" tie-break is first."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Review"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Review the quiz settings before you publish."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Right or wrong, with a final score"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Score across multiple dimensions"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Score bands shouldn't overlap — the first matching band wins."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Score breakdown delivered per submission."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Send each new lead to your CRM or automation tool with a webhook."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Send leads + scores"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Send leads to your CRM"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Send leads with their path"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Send people to specific questions or skip ahead based on what they pick."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Send responses to your CRM"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Send results to your CRM"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Send votes to your CRM"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Set expectations: how long, what they get, why it matters."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Set the hook — what topic, how many questions, time limit."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Set the min/max score range for each band (\"0–4 = Novice\", \"5–8 = Expert\", etc.)."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Skip irrelevant blocks based on early answers — e.g. ask \"B2B vs B2C\" then branch."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Skip irrelevant questions based on earlier answers."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Style it"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Surveys with more than 12 questions see big drop-off rates. Keep it tight."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Timer is especially useful here — adds urgency."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Timer, randomize, GDPR consent — all the per-quiz behavior controls live here."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Timer, retake policy, anything quiz-wide."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Tips for %s quizzes"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Trivia / score"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Use Required toggles sparingly — let visitors skip what doesn't apply to them."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Use the Logic tab's reachability warnings to find unreachable questions."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Useful for adaptive quizzes — wrong answer? Send them to a refresher question."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Visitors answer questions, each answer points to a result, and the most-picked result wins. Build the results first so your answers have somewhere to map to."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Webhook for free; Mailchimp / ConvertKit / etc. with Pro."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Webhook payload includes the answer path so your CRM can route."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Webhook payload includes the full score breakdown so your CRM can segment."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Weighted assessment"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Weighted is overkill for \"match me to one of three personas\" — use Personality for that."
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Wire up the branches"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Write the intro"
+msgstr ""
+
+#: src/admin/views/builder/OverviewTab.vue
+msgid "Write your one question"
+msgstr ""
+
+#: src/admin/views/builder/PerQuizAnalytics.vue
+msgid "(no label)"
+msgstr ""
+
+#: src/admin/views/builder/PerQuizAnalytics.vue
+msgid "%1$s completed · %2$s in progress"
+msgstr ""
+
+#: src/admin/views/builder/PerQuizAnalytics.vue
+msgid "%s conversion"
+msgstr ""
+
+#: src/admin/views/builder/PerQuizAnalytics.vue
+msgid "Analytics"
+msgstr ""
+
+#: src/admin/views/builder/PerQuizAnalytics.vue
+msgid "Analytics couldn't be loaded yet. Try again after a submission lands."
+msgstr ""
+
+#: src/admin/views/builder/PerQuizAnalytics.vue
+msgid "Analytics CSV downloaded."
+msgstr ""
+
+#: src/admin/views/builder/PerQuizAnalytics.vue
+msgid "Answered"
+msgstr ""
+
+#: src/admin/views/builder/PerQuizAnalytics.vue
+msgid "Avg score"
+msgstr ""
+
+#: src/admin/views/builder/PerQuizAnalytics.vue
+msgid "Avg time"
+msgstr ""
+
+#: src/admin/views/builder/PerQuizAnalytics.vue
+msgid "Could not load question analytics."
+msgstr ""
+
+#: src/admin/views/builder/PerQuizAnalytics.vue
+msgid "Drop-off"
+msgstr ""
+
+#: src/admin/views/builder/PerQuizAnalytics.vue
+msgid "Drop-off funnel and answer distribution per question."
+msgstr ""
+
+#: src/admin/views/builder/PerQuizAnalytics.vue
+msgid "Exporting…"
+msgstr ""
+
+#: src/admin/views/builder/PerQuizAnalytics.vue
+msgid "Lifetime performance for this quiz. Updates when new submissions land."
+msgstr ""
+
+#: src/admin/views/builder/PerQuizAnalytics.vue
+msgid "Loading analytics…"
+msgstr ""
+
+#: src/admin/views/builder/PerQuizAnalytics.vue
+msgid "Loading question analytics…"
+msgstr ""
+
+#: src/admin/views/builder/PerQuizAnalytics.vue
+msgid "No question data yet — analytics will appear after the first completed submission."
+msgstr ""
+
+#: src/admin/views/builder/PerQuizAnalytics.vue
+msgid "of started submissions"
+msgstr ""
+
+#: src/admin/views/builder/PerQuizAnalytics.vue
+msgid "points per completion"
+msgstr ""
+
+#: src/admin/views/builder/PerQuizAnalytics.vue
+msgid "Reached"
+msgstr ""
+
+#: src/admin/views/builder/PerQuizAnalytics.vue
+msgid "Result #%d"
+msgstr ""
+
+#: src/admin/views/builder/PerQuizAnalytics.vue
+msgid "Result distribution"
+msgstr ""
+
+#: src/admin/views/builder/QuestionEditor.vue
+msgid "Question properties"
+msgstr ""
+
+#: src/admin/views/builder/QuestionListItem.vue
+msgid "%1$s · %2$d answer"
+msgstr ""
+
+#: src/admin/views/builder/QuestionListItem.vue
+#: src/admin/views/builder/PerQuizAnalytics.vue
+#: src/admin/views/builder/design/MagazinePreview.vue
+msgid "Question"
+msgstr ""
+
+#: src/admin/views/builder/QuestionPreview.vue
+#: src/admin/views/builder/design/ConversationalPreview.vue
+#: src/frontend/questions/Rating.vue
+msgid "%1$d of %2$d"
+msgstr ""
+
+#: src/admin/views/builder/QuestionPreview.vue
+msgid "Add a description or hint…"
+msgstr ""
+
+#: src/admin/views/builder/QuestionPreview.vue
+msgid "Add answer"
+msgstr ""
+
+#: src/admin/views/builder/QuestionPreview.vue
+msgid "Add question image"
+msgstr ""
+
+#: src/admin/views/builder/QuestionPreview.vue
+#: src/admin/views/builder/AnswerRow.vue
+msgid "Answer %s"
+msgstr ""
+
+#: src/admin/views/builder/QuestionPreview.vue
+msgid "Configure max rating and style in the Properties panel."
+msgstr ""
+
+#: src/admin/views/builder/QuestionPreview.vue
+msgid "Configure placeholder and max length in the Properties panel."
+msgstr ""
+
+#: src/admin/views/builder/QuestionPreview.vue
+msgid "Could not add answer"
+msgstr ""
+
+#: src/admin/views/builder/QuestionPreview.vue
+msgid "Could not delete answer"
+msgstr ""
+
+#: src/admin/views/builder/QuestionPreview.vue
+msgid "Could not save answer"
+msgstr ""
+
+#: src/admin/views/builder/QuestionPreview.vue
+msgid "Delete this answer?"
+msgstr ""
+
+#: src/admin/views/builder/QuestionPreview.vue
+#: src/admin/views/builder/IntroPreview.vue
+#: src/admin/views/builder/FormPreview.vue
+#: src/admin/views/builder/design/GamifiedPreview.vue
+msgid "Level"
+msgstr ""
+
+#: src/admin/views/builder/QuestionPreview.vue
+msgid "Open question properties"
+msgstr ""
+
+#: src/admin/views/builder/QuestionPreview.vue
+msgid "Per-question timer: %d seconds"
+msgstr ""
+
+#: src/admin/views/builder/QuestionPreview.vue
+#: src/admin/views/builder/design/ClassicPreview.vue
+#: src/frontend/screens/Question.vue
+msgid "Question %1$d of %2$d"
+msgstr ""
+
+#: src/admin/views/builder/QuestionPreview.vue
+msgid "Question %d description"
+msgstr ""
+
+#: src/admin/views/builder/QuestionPreview.vue
+msgid "Question %d title"
+msgstr ""
+
+#: src/admin/views/builder/QuestionPreview.vue
+msgid "Question image"
+msgstr ""
+
+#: src/admin/views/builder/QuestionPreview.vue
+msgid "Select question image"
+msgstr ""
+
+#: src/admin/views/builder/QuestionPreview.vue
+msgid "What do you want to ask?"
+msgstr ""
+
+#: src/admin/views/builder/QuestionProperties.vue
+msgid "10 stars"
+msgstr ""
+
+#: src/admin/views/builder/QuestionProperties.vue
+msgid "5 stars"
+msgstr ""
+
+#: src/admin/views/builder/QuestionProperties.vue
+#: src/admin/views/builder/BuilderTopbar.vue
+msgid "Could not save"
+msgstr ""
+
+#: src/admin/views/builder/QuestionProperties.vue
+msgid "Could not save alignment"
+msgstr ""
+
+#: src/admin/views/builder/QuestionProperties.vue
+msgid "Could not save background"
+msgstr ""
+
+#: src/admin/views/builder/QuestionProperties.vue
+msgid "Could not save background image"
+msgstr ""
+
+#: src/admin/views/builder/QuestionProperties.vue
+#: src/admin/views/builder/QuestionPreview.vue
+msgid "Could not save image"
+msgstr ""
+
+#: src/admin/views/builder/QuestionProperties.vue
+msgid "Could not save opacity"
+msgstr ""
+
+#: src/admin/views/builder/QuestionProperties.vue
+msgid "Could not save rating setting"
+msgstr ""
+
+#: src/admin/views/builder/QuestionProperties.vue
+#: src/admin/views/builder/QuestionPreview.vue
+msgid "Could not save slider setting"
+msgstr ""
+
+#: src/admin/views/builder/QuestionProperties.vue
+msgid "Could not save text setting"
+msgstr ""
+
+#: src/admin/views/builder/QuestionProperties.vue
+msgid "Could not save vertical alignment"
+msgstr ""
+
+#: src/admin/views/builder/QuestionProperties.vue
+msgid "Counts down for this question only. Auto-advances when it hits zero."
+msgstr ""
+
+#: src/admin/views/builder/QuestionProperties.vue
+msgid "Display & rules"
+msgstr ""
+
+#: src/admin/views/builder/QuestionProperties.vue
+msgid "Display style"
+msgstr ""
+
+#: src/admin/views/builder/QuestionProperties.vue
+msgid "Display the numeric value above the slider thumb while answering."
+msgstr ""
+
+#: src/admin/views/builder/QuestionProperties.vue
+msgid "Emoji (😊)"
+msgstr ""
+
+#: src/admin/views/builder/QuestionProperties.vue
+msgid "Max characters"
+msgstr ""
+
+#: src/admin/views/builder/QuestionProperties.vue
+msgid "Max rating"
+msgstr ""
+
+#: src/admin/views/builder/QuestionProperties.vue
+msgid "Maximum"
+msgstr ""
+
+#: src/admin/views/builder/QuestionProperties.vue
+msgid "Minimum"
+msgstr ""
+
+#: src/admin/views/builder/QuestionProperties.vue
+msgid "Need this question to skip ahead based on the answer?"
+msgstr ""
+
+#: src/admin/views/builder/QuestionProperties.vue
+msgid "Numbers (1 2 3)"
+msgstr ""
+
+#: src/admin/views/builder/QuestionProperties.vue
+msgid "Open the Logic tab →"
+msgstr ""
+
+#: src/admin/views/builder/QuestionProperties.vue
+msgid "Placeholder text"
+msgstr ""
+
+#: src/admin/views/builder/QuestionProperties.vue
+msgid "Randomize answers"
+msgstr ""
+
+#: src/admin/views/builder/QuestionProperties.vue
+msgid "Rating settings"
+msgstr ""
+
+#: src/admin/views/builder/QuestionProperties.vue
+msgid "Required answer"
+msgstr ""
+
+#: src/admin/views/builder/QuestionProperties.vue
+#: src/admin/views/builder/QuestionPreview.vue
+msgid "Show value"
+msgstr ""
+
+#: src/admin/views/builder/QuestionProperties.vue
+msgid "Shuffle this question\\'s answers per visitor. The order is stable for one session so back/forward keeps the same layout."
+msgstr ""
+
+#: src/admin/views/builder/QuestionProperties.vue
+msgid "Slider settings"
+msgstr ""
+
+#: src/admin/views/builder/QuestionProperties.vue
+msgid "Stars (★)"
+msgstr ""
+
+#: src/admin/views/builder/QuestionProperties.vue
+#: src/admin/views/builder/QuestionPreview.vue
+msgid "Step"
+msgstr ""
+
+#: src/admin/views/builder/QuestionProperties.vue
+msgid "Text field settings"
+msgstr ""
+
+#: src/admin/views/builder/QuestionProperties.vue
+msgid "User must answer to advance."
+msgstr ""
+
+#: src/admin/views/builder/QuestionProperties.vue
+#: src/admin/views/builder/QuestionPreview.vue
+#: src/frontend/questions/ShortText.vue
+msgid "Your answer…"
+msgstr ""
+
+#: src/admin/views/builder/QuestionsTab.vue
+msgid "%d question so far"
+msgstr ""
+
+#: src/admin/views/builder/QuestionsTab.vue
+msgid "Add another question"
+msgstr ""
+
+#: src/admin/views/builder/QuestionsTab.vue
+msgid "Add images, descriptions, result mapping per question"
+msgstr ""
+
+#: src/admin/views/builder/QuestionsTab.vue
+msgid "Beach"
+msgstr ""
+
+#: src/admin/views/builder/QuestionsTab.vue
+msgid "Build your first question"
+msgstr ""
+
+#: src/admin/views/builder/QuestionsTab.vue
+msgid "Click any question on the left to open it in the editor, or add a new one to keep building."
+msgstr ""
+
+#: src/admin/views/builder/QuestionsTab.vue
+msgid "Could not add question"
+msgstr ""
+
+#: src/admin/views/builder/QuestionsTab.vue
+msgid "Could not duplicate"
+msgstr ""
+
+#: src/admin/views/builder/QuestionsTab.vue
+#: src/admin/views/builder/QuestionPreview.vue
+msgid "Could not reorder"
+msgstr ""
+
+#: src/admin/views/builder/QuestionsTab.vue
+msgid "Delete \"%s\"? This cannot be undone."
+msgstr ""
+
+#: src/admin/views/builder/QuestionsTab.vue
+msgid "Drag to reorder, duplicate, or delete from the left rail"
+msgstr ""
+
+#: src/admin/views/builder/QuestionsTab.vue
+msgid "Free types: Single \\u00B7 Multiple \\u00B7 True / False \\u00B7 Dropdown \\u00B7 Short text \\u00B7 Rating"
+msgstr ""
+
+#: src/admin/views/builder/QuestionsTab.vue
+msgid "Getting started"
+msgstr ""
+
+#: src/admin/views/builder/QuestionsTab.vue
+msgid "Insert a reusable question from your bank"
+msgstr ""
+
+#: src/admin/views/builder/QuestionsTab.vue
+msgid "Insert from bank"
+msgstr ""
+
+#: src/admin/views/builder/QuestionsTab.vue
+msgid "Mountains"
+msgstr ""
+
+#: src/admin/views/builder/QuestionsTab.vue
+msgid "New question"
+msgstr ""
+
+#: src/admin/views/builder/QuestionsTab.vue
+msgid "No questions yet."
+msgstr ""
+
+#: src/admin/views/builder/QuestionsTab.vue
+msgid "Pick a question to edit"
+msgstr ""
+
+#: src/admin/views/builder/QuestionsTab.vue
+msgid "Pick a question type from the left rail or click below to start with a single-choice question."
+msgstr ""
+
+#: src/admin/views/builder/QuestionsTab.vue
+msgid "Pick a type \\u2014 %1$s, plus %2$d Pro type"
+msgstr ""
+
+#: src/admin/views/builder/QuestionsTab.vue
+msgid "Pick a type \\u2014 %s"
+msgstr ""
+
+#: src/admin/views/builder/QuestionsTab.vue
+msgid "Pro question type"
+msgstr ""
+
+#: src/admin/views/builder/QuestionsTab.vue
+msgid "Question duplicated"
+msgstr ""
+
+#: src/admin/views/builder/QuestionsTab.vue
+msgid "Question types: Single \\u00B7 Multiple \\u00B7 True / False \\u00B7 Dropdown \\u00B7 Short text \\u00B7 Rating"
+msgstr ""
+
+#: src/admin/views/builder/QuestionsTab.vue
+msgid "Roadtrip"
+msgstr ""
+
+#: src/admin/views/builder/QuestionsTab.vue
+#: src/admin/views/builder/QuestionPreview.vue
+#: src/admin/views/builder/QuestionListItem.vue
+msgid "Short text"
+msgstr ""
+
+#: src/admin/views/builder/QuestionsTab.vue
+msgid "Single, Multiple, True/False, Dropdown, Short text, Rating"
+msgstr ""
+
+#: src/admin/views/builder/QuestionsTab.vue
+msgid "this question"
+msgstr ""
+
+#: src/admin/views/builder/QuestionsTab.vue
+#: src/admin/views/builder/QuestionPreview.vue
+#: src/admin/views/builder/QuestionListItem.vue
+msgid "True / False"
+msgstr ""
+
+#: src/admin/views/builder/QuestionsTab.vue
+msgid "True or false?"
+msgstr ""
+
+#: src/admin/views/builder/QuestionsTab.vue
+msgid "vacation?"
+msgstr ""
+
+#: src/admin/views/builder/QuestionsTab.vue
+msgid "What\\'s your dream"
+msgstr ""
+
+#: src/admin/views/builder/ResultCard.vue
+msgid "Conditions (JSON)"
+msgstr ""
+
+#: src/admin/views/builder/ResultCard.vue
+msgid "Content"
+msgstr ""
+
+#: src/admin/views/builder/ResultCard.vue
+msgid "CTA label"
+msgstr ""
+
+#: src/admin/views/builder/ResultCard.vue
+msgid "CTA URL"
+msgstr ""
+
+#: src/admin/views/builder/ResultCard.vue
+msgid "Optional — redirect immediately instead of showing this screen."
+msgstr ""
+
+#: src/admin/views/builder/ResultCard.vue
+msgid "Optional hero image shown with this result."
+msgstr ""
+
+#: src/admin/views/builder/ResultCard.vue
+msgid "Score max"
+msgstr ""
+
+#: src/admin/views/builder/ResultCard.vue
+msgid "Score min"
+msgstr ""
+
+#: src/admin/views/builder/ResultEditor.vue
+msgid "Result properties"
+msgstr ""
+
+#: src/admin/views/builder/ResultListItem.vue
+#: src/admin/views/builder/ResultCard.vue
+msgid "Delete result"
+msgstr ""
+
+#: src/admin/views/builder/ResultListItem.vue
+msgid "Score %1$s–%2$s"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+#: src/admin/views/builder/ResultCard.vue
+msgid "(untitled answer)"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+#: src/admin/views/builder/ResultListItem.vue
+#: src/admin/views/builder/ResultCard.vue
+msgid "%d mapped"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+#: src/admin/views/builder/QuestionPreview.vue
+#: src/admin/views/builder/IntroPreview.vue
+#: src/admin/views/builder/FormPreview.vue
+msgid "Add image"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+#: src/admin/views/builder/QuestionPreview.vue
+#: src/admin/views/builder/IntroPreview.vue
+#: src/admin/views/builder/FormPreview.vue
+#: src/admin/ui/RichTextEditor.vue
+msgid "Align center"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+#: src/admin/views/builder/QuestionPreview.vue
+#: src/admin/views/builder/IntroPreview.vue
+#: src/admin/views/builder/FormPreview.vue
+#: src/admin/ui/RichTextEditor.vue
+msgid "Align left"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+#: src/admin/views/builder/QuestionPreview.vue
+#: src/admin/views/builder/IntroPreview.vue
+#: src/admin/views/builder/FormPreview.vue
+#: src/admin/ui/RichTextEditor.vue
+msgid "Align right"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+msgid "Analyst"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+#: src/admin/views/builder/ResultCard.vue
+msgid "Answers mapping to this result"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+msgid "bar chart preview"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+#: src/admin/views/builder/QuestionPreview.vue
+#: src/admin/views/builder/IntroPreview.vue
+#: src/admin/views/builder/FormPreview.vue
+msgid "Bold"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+msgid "chart preview"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+#: src/admin/views/builder/QuestionPreview.vue
+#: src/admin/views/builder/IntroPreview.vue
+msgid "Could not remove image"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+msgid "Creator"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+#: src/admin/views/builder/ResultCard.vue
+msgid "Describe the result — what does it mean for the user?"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+msgid "Describe what this result means for your audience. Explain the key traits it reflects and suggest a clear next step they can take."
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+msgid "Done!"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+msgid "donut chart preview"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+#: src/admin/views/builder/ResultCard.vue
+msgid "Edit the mapping inside individual questions in the Questions tab."
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+msgid "Edit the range in the right rail."
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+#: src/admin/views/builder/QuestionPreview.vue
+#: src/admin/views/builder/IntroPreview.vue
+msgid "Enter image URL"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+msgid "Explorer"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+#: src/admin/views/builder/QuestionPreview.vue
+#: src/admin/views/builder/IntroPreview.vue
+#: src/admin/views/builder/FormPreview.vue
+msgid "Italic"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+#: src/admin/views/builder/ResultCard.vue
+msgid "No answers map to this result yet."
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+msgid "Open result properties"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+msgid "Personality result"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+msgid "pie chart preview"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+#: src/admin/views/builder/IntroPreview.vue
+#: src/admin/views/builder/FormPreview.vue
+msgid "Properties"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+#: src/admin/views/builder/ResultCard.vue
+msgid "Q%d"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+#: src/admin/views/builder/QuestionPreview.vue
+#: src/admin/views/builder/IntroPreview.vue
+#: src/admin/views/builder/FormPreview.vue
+#: src/admin/ui/MediaPicker.vue
+msgid "Remove"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+#: src/admin/views/builder/QuestionPreview.vue
+#: src/admin/views/builder/IntroPreview.vue
+#: src/admin/views/builder/FormPreview.vue
+#: src/admin/ui/MediaPicker.vue
+msgid "Replace"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+msgid "Result %1$s of %2$s"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+msgid "Result %d content"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+msgid "Result %d title"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+msgid "Result image"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+#: src/admin/views/builder/ResultCard.vue
+msgid "Result title"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+msgid "sample"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+msgid "Score tier"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+#: src/admin/views/builder/IntroPreview.vue
+#: src/admin/views/builder/FormPreview.vue
+msgid "Select image"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+msgid "Share buttons"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+#: src/admin/views/builder/QuestionPreview.vue
+#: src/admin/views/builder/IntroPreview.vue
+#: src/admin/views/builder/FormPreview.vue
+#: src/admin/ui/RichTextEditor.vue
+msgid "Text color"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+msgid "Thank-you screen"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+#: src/admin/views/builder/QuestionPreview.vue
+#: src/admin/views/builder/IntroPreview.vue
+#: src/admin/views/builder/FormPreview.vue
+msgid "Underline"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+#: src/admin/views/builder/QuestionPreview.vue
+#: src/admin/views/builder/IntroPreview.vue
+msgid "Use this image"
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+msgid "Visitors are redirected — this card is not shown."
+msgstr ""
+
+#: src/admin/views/builder/ResultPreview.vue
+msgid "Weighted result"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+msgid "(Pro)"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+#: src/admin/views/builder/QuestionProperties.vue
+#: src/admin/views/builder/IntroProperties.vue
+#: src/admin/views/builder/FormProperties.vue
+msgid "Alignment"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+msgid "Auto-redirect"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+#: src/admin/views/builder/QuestionProperties.vue
+#: src/admin/views/builder/IntroProperties.vue
+#: src/admin/views/builder/FormProperties.vue
+#: src/admin/views/builder/DesignTab.vue
+msgid "Background"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+#: src/admin/views/builder/QuestionProperties.vue
+#: src/admin/views/builder/IntroProperties.vue
+#: src/admin/views/builder/FormProperties.vue
+msgid "Background overlay opacity"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+msgid "Bar"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+#: src/admin/views/builder/QuestionProperties.vue
+#: src/admin/views/builder/IntroProperties.vue
+#: src/admin/views/builder/FormProperties.vue
+#: src/admin/views/builder/DesignTab.vue
+msgid "Bottom"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+msgid "Button label"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+msgid "Button URL"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+#: src/admin/views/builder/QuestionProperties.vue
+#: src/admin/views/builder/IntroProperties.vue
+#: src/admin/views/builder/FormProperties.vue
+#: src/admin/views/builder/DesignTab.vue
+msgid "Center"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+msgid "Chart"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+msgid "Chart type"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+msgid "Completion behavior"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+msgid "Conditions"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+#: src/admin/views/builder/QuestionProperties.vue
+#: src/admin/views/builder/IntroProperties.vue
+#: src/admin/views/builder/FormProperties.vue
+msgid "Contain"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+#: src/admin/views/builder/QuestionProperties.vue
+#: src/admin/views/builder/IntroProperties.vue
+#: src/admin/views/builder/FormProperties.vue
+msgid "Content alignment"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+#: src/admin/views/builder/QuestionProperties.vue
+#: src/admin/views/builder/IntroProperties.vue
+#: src/admin/views/builder/FormProperties.vue
+msgid "Cover"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+#: src/admin/views/builder/QuestionProperties.vue
+#: src/admin/views/builder/IntroProperties.vue
+#: src/admin/views/builder/FormProperties.vue
+#: src/admin/ui/BackgroundControl.vue
+msgid "Custom background"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+#: src/admin/views/builder/QuestionProperties.vue
+#: src/admin/views/builder/FormProperties.vue
+msgid "Delete image"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+msgid "Donut"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+#: src/admin/views/builder/QuestionProperties.vue
+#: src/admin/views/builder/IntroProperties.vue
+msgid "Fills the slot. May crop your image."
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+#: src/admin/views/builder/QuestionProperties.vue
+#: src/admin/views/builder/IntroProperties.vue
+#: src/admin/views/builder/FormProperties.vue
+#: src/admin/views/builder/DesignTab.vue
+msgid "Height"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+msgid "I got: {title} — check it out!"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+#: src/admin/views/builder/ResultCard.vue
+#: src/admin/views/builder/QuestionProperties.vue
+#: src/admin/views/builder/IntroProperties.vue
+#: src/admin/views/builder/FormProperties.vue
+msgid "Image"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+#: src/admin/views/builder/QuestionProperties.vue
+#: src/admin/views/builder/IntroProperties.vue
+#: src/admin/views/builder/FormProperties.vue
+msgid "Image fit"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+#: src/admin/views/builder/QuestionProperties.vue
+#: src/admin/views/builder/IntroProperties.vue
+#: src/admin/views/builder/FormProperties.vue
+msgid "Image height in pixels"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+#: src/admin/views/builder/QuestionProperties.vue
+#: src/admin/views/builder/IntroProperties.vue
+#: src/admin/views/builder/FormProperties.vue
+#: src/admin/views/builder/DesignTab.vue
+msgid "Left"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+#: src/admin/views/builder/QuestionPreview.vue
+msgid "Max"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+#: src/admin/views/builder/QuestionPreview.vue
+msgid "Min"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+#: src/admin/views/builder/DesignTab.vue
+msgid "None"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+msgid "On completion"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+#: src/admin/views/builder/QuestionProperties.vue
+#: src/admin/views/builder/IntroProperties.vue
+#: src/admin/views/builder/FormProperties.vue
+#: src/admin/views/builder/DesignTab.vue
+#: src/admin/ui/BackgroundControl.vue
+msgid "Overlay opacity"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+msgid "Pie"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+msgid "Platforms"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+#: src/admin/views/builder/ResultCard.vue
+msgid "Redirect URL"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+#: src/admin/views/builder/QuestionProperties.vue
+#: src/admin/views/builder/IntroProperties.vue
+#: src/admin/views/builder/FormProperties.vue
+#: src/admin/views/builder/DesignTab.vue
+#: src/admin/ui/BackgroundControl.vue
+msgid "Remove background"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+#: src/admin/views/builder/QuestionProperties.vue
+#: src/admin/views/builder/IntroProperties.vue
+#: src/admin/views/builder/FormProperties.vue
+msgid "Repeat"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+#: src/admin/views/builder/QuestionProperties.vue
+#: src/admin/views/builder/IntroProperties.vue
+#: src/admin/views/builder/FormProperties.vue
+#: src/admin/views/builder/DesignTab.vue
+#: src/admin/ui/BackgroundControl.vue
+msgid "Replace background"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+#: src/admin/views/builder/QuestionProperties.vue
+#: src/admin/views/builder/IntroProperties.vue
+#: src/admin/views/builder/FormProperties.vue
+msgid "Replace image"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+#: src/admin/views/builder/QuestionProperties.vue
+#: src/admin/views/builder/IntroProperties.vue
+#: src/admin/views/builder/FormProperties.vue
+#: src/admin/views/builder/DesignTab.vue
+msgid "Right"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+#: src/admin/views/builder/ResultPreview.vue
+msgid "Score range"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+msgid "Share message"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+msgid "Show result"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+msgid "Show share buttons"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+msgid "Social sharing"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+msgid "The result card won't be shown."
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+#: src/admin/views/builder/QuestionProperties.vue
+#: src/admin/views/builder/IntroProperties.vue
+msgid "Tiles at native size — best for patterns."
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+#: src/admin/views/builder/QuestionProperties.vue
+#: src/admin/views/builder/IntroProperties.vue
+#: src/admin/views/builder/FormProperties.vue
+#: src/admin/views/builder/DesignTab.vue
+msgid "Top"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+msgid "Upgrade to Pro to add charts to your result screens."
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+msgid "Upgrade to Pro to customise"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+#: src/admin/views/builder/ResultCard.vue
+msgid "Upgrade to Pro to use weighted results."
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+#: src/admin/views/builder/QuestionProperties.vue
+#: src/admin/views/builder/IntroProperties.vue
+#: src/admin/views/builder/FormProperties.vue
+#: src/admin/views/builder/DesignTab.vue
+#: src/admin/ui/BackgroundControl.vue
+msgid "Upload background"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+#: src/admin/views/builder/QuestionProperties.vue
+#: src/admin/views/builder/IntroProperties.vue
+#: src/admin/views/builder/FormProperties.vue
+msgid "Upload image"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+msgid "Use %s to insert the result title."
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+#: src/admin/views/builder/QuestionProperties.vue
+#: src/admin/views/builder/IntroProperties.vue
+#: src/admin/views/builder/FormProperties.vue
+msgid "Vertical alignment"
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+msgid "Visitors landing inside this range see this result."
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+msgid "Visitors see this result card with your title, content, and image. Optionally add a button below."
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+msgid "Visualise the result breakdown as a chart below the result title."
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+msgid "When the visitor finishes the quiz, they're redirected to the URL above immediately — your title, content, image, and CTA are skipped."
+msgstr ""
+
+#: src/admin/views/builder/ResultProperties.vue
+#: src/admin/views/builder/QuestionProperties.vue
+#: src/admin/views/builder/IntroProperties.vue
+msgid "Whole image visible. No cropping."
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "%d result so far"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "%d tier so far"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+#: src/admin/views/builder/QuestionsTab.vue
+msgid "%d total"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "A single screen is enough for surveys and polls"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Add an image, CTA, or redirect"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Add another result"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Add another tier"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Add as many results as your quiz needs"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Add result"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Add thank-you screen"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Add the thank-you screen"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Add your first result"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Add your first score tier"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+#: src/admin/views/builder/QuestionsTab.vue
+#: src/admin/views/builder/QuestionPreview.vue
+msgid "Adding…"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Click any result on the left to customize its content, or add a new one."
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Click any tier on the left to customize its copy, image, and CTA, or add a new tier."
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+#: src/admin/views/builder/QuestionsTab.vue
+msgid "Click the button below to add your first one."
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Click the screen on the left to customize its copy, image, and CTA."
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Could not add result"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+#: src/admin/views/builder/QuestionsTab.vue
+msgid "Could not delete"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Cover the full score range without gaps"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Create first result"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Create first tier"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Customize content, image, and CTA per result"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Customize each tier independently"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Delete “%s”? This cannot be undone."
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Drag to reorder, click to edit"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Each result has its own title, content, image, and CTA"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Each tier shows different copy, image, and CTA"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Edit screen"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Edit your thank-you screen"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Map answers in the Questions tab to point at results"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "No results yet."
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "One screen for all visitors"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "One screen shown to every visitor"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Optional CTA, redirect, or hero image"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Personality quizzes match each visitor to one of several results based on their answers. Create one result per personality."
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Pick a result to edit"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Pick a tier to edit"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+#: src/admin/views/builder/ResultListItem.vue
+#: src/frontend/screens/Result.vue
+msgid "Result %d"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Result deleted"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Set min/max score in the right rail"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+#: src/admin/views/builder/ResultProperties.vue
+#: src/admin/views/builder/ResultCard.vue
+msgid "Shop my match"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Single result"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Single thank-you screen for all visitors"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Skip this if you only need a confirmation"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Surveys and polls only need one result screen."
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Surveys and polls show a single thank-you screen after submission. Customize what visitors see when they finish."
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "this result"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Tier %d"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Track which answers map to each result"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Trivia quizzes tier visitors by score. Add one result per band — e.g. Beginner 0–3, Pro 7–10."
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Update copy any time"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Visitors land in the tier their score falls into"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "You can add as many tiers as you need"
+msgstr ""
+
+#: src/admin/views/builder/ResultsTab.vue
+msgid "You're an Adventurer"
+msgstr ""
+
+#: src/admin/views/builder/SettingsTab.vue
+#: src/admin/views/builder/FormProperties.vue
+#: src/admin/views/builder/DesignTab.vue
+msgid "%s requires Quizably Pro."
+msgstr ""
+
+#: src/admin/views/builder/SettingsTab.vue
+msgid "Auto-advance on answer"
+msgstr ""
+
+#: src/admin/views/builder/SettingsTab.vue
+msgid "Auto-submits the quiz when the timer runs out."
+msgstr ""
+
+#: src/admin/views/builder/SettingsTab.vue
+msgid "Bar / percentage / step-dot styles. Free quizzes show a simple text counter."
+msgstr ""
+
+#: src/admin/views/builder/SettingsTab.vue
+msgid "Control what appears on the intro screen"
+msgstr ""
+
+#: src/admin/views/builder/SettingsTab.vue
+msgid "Controls for the result card shown after the quiz"
+msgstr ""
+
+#: src/admin/views/builder/SettingsTab.vue
+#: src/admin/views/builder/IntroProperties.vue
+msgid "Display question count, estimated completion time, and result count on the intro screen."
+msgstr ""
+
+#: src/admin/views/builder/SettingsTab.vue
+msgid "For trivia quizzes — adds a collapsible 'Review answers' section on the result screen so visitors can see which questions they got right or wrong."
+msgstr ""
+
+#: src/admin/views/builder/SettingsTab.vue
+msgid "Global timer"
+msgstr ""
+
+#: src/admin/views/builder/SettingsTab.vue
+msgid "How visitors move between questions"
+msgstr ""
+
+#: src/admin/views/builder/SettingsTab.vue
+msgid "Intro screens"
+msgstr ""
+
+#: src/admin/views/builder/SettingsTab.vue
+#: src/admin/views/builder/QuestionProperties.vue
+msgid "Per-question timer"
+msgstr ""
+
+#: src/admin/views/builder/SettingsTab.vue
+msgid "Per-question timer mode"
+msgstr ""
+
+#: src/admin/views/builder/SettingsTab.vue
+msgid "Per-quiz behavior — form, timing, intro/outro screens, and lifecycle."
+msgstr ""
+
+#: src/admin/views/builder/SettingsTab.vue
+msgid "Per-quiz behavior — question flow, result and intro screens."
+msgstr ""
+
+#: src/admin/views/builder/SettingsTab.vue
+msgid "Progress bar"
+msgstr ""
+
+#: src/admin/views/builder/SettingsTab.vue
+msgid "Quiz behavior"
+msgstr ""
+
+#: src/admin/views/builder/SettingsTab.vue
+msgid "Randomize questions"
+msgstr ""
+
+#: src/admin/views/builder/SettingsTab.vue
+msgid "Result screen"
+msgstr ""
+
+#: src/admin/views/builder/SettingsTab.vue
+#: src/admin/views/builder/QuestionProperties.vue
+msgid "Seconds"
+msgstr ""
+
+#: src/admin/views/builder/SettingsTab.vue
+msgid "Show answer review (trivia)"
+msgstr ""
+
+#: src/admin/views/builder/SettingsTab.vue
+#: src/admin/views/builder/IntroProperties.vue
+msgid "Show estimated time"
+msgstr ""
+
+#: src/admin/views/builder/SettingsTab.vue
+msgid "Show the questions in a different order for every visitor. Stable for one session so back/forward keeps the same order."
+msgstr ""
+
+#: src/admin/views/builder/SettingsTab.vue
+msgid "Single-choice and True/False questions automatically skip to the next question as soon as the visitor picks an answer. Turn off if you want them to review before clicking Next."
+msgstr ""
+
+#: src/admin/views/builder/SettingsTab.vue
+msgid "Time limits, order, and progress affordances"
+msgstr ""
+
+#: src/admin/views/builder/SettingsTab.vue
+msgid "When on, the global timer resets every question (using each question's own seconds when set, falling back to the global value)."
+msgstr ""
+
+#: src/admin/views/builder/SummaryTab.vue
+msgid "%s is published and live. Copy one of the embed options below and drop it anywhere."
+msgstr ""
+
+#: src/admin/views/builder/SummaryTab.vue
+msgid "A button in the corner that opens the quiz in a small panel"
+msgstr ""
+
+#: src/admin/views/builder/SummaryTab.vue
+msgid "Add <code>position=\"bottom-left\"</code> to move it to the left corner. It takes the same <code>trigger</code>, <code>delay</code>, <code>scroll</code> and <code>once</code> options as the popup, e.g. <code>trigger=\"scroll\" scroll=\"60\" once=\"day\"</code>."
+msgstr ""
+
+#: src/admin/views/builder/SummaryTab.vue
+msgid "Copied"
+msgstr ""
+
+#: src/admin/views/builder/SummaryTab.vue
+msgid "Copied!"
+msgstr ""
+
+#: src/admin/views/builder/SummaryTab.vue
+msgid "Copy"
+msgstr ""
+
+#: src/admin/views/builder/SummaryTab.vue
+msgid "Copy iframe code"
+msgstr ""
+
+#: src/admin/views/builder/SummaryTab.vue
+msgid "Copy popup shortcode"
+msgstr ""
+
+#: src/admin/views/builder/SummaryTab.vue
+msgid "Copy shortcode"
+msgstr ""
+
+#: src/admin/views/builder/SummaryTab.vue
+msgid "Copy slide-in shortcode"
+msgstr ""
+
+#: src/admin/views/builder/SummaryTab.vue
+msgid "Embed on any external website or landing page"
+msgstr ""
+
+#: src/admin/views/builder/SummaryTab.vue
+msgid "iFrame embed"
+msgstr ""
+
+#: src/admin/views/builder/SummaryTab.vue
+msgid "Opens the quiz in a centered modal overlay"
+msgstr ""
+
+#: src/admin/views/builder/SummaryTab.vue
+msgid "Opens when the button is clicked. To open it by itself, add <code>trigger=\"delay\"</code> (with <code>delay=\"5\"</code> seconds), <code>trigger=\"scroll\"</code> (with <code>scroll=\"50\"</code> percent) or <code>trigger=\"exit\"</code> (desktop only). <code>once=\"session\"</code>, <code>\"day\"</code> or <code>\"always\"</code> sets how often it may open on its own (default: session). Press Esc to close it."
+msgstr ""
+
+#: src/admin/views/builder/SummaryTab.vue
+msgid "Paste into any WordPress page, post, or widget"
+msgstr ""
+
+#: src/admin/views/builder/SummaryTab.vue
+msgid "Popup shortcode"
+msgstr ""
+
+#: src/admin/views/builder/SummaryTab.vue
+msgid "Shortcode"
+msgstr ""
+
+#: src/admin/views/builder/SummaryTab.vue
+msgid "Slide-in shortcode"
+msgstr ""
+
+#: src/admin/views/builder/SummaryTab.vue
+msgid "The embed URL works on any site — no WordPress needed on the destination."
+msgstr ""
+
+#: src/admin/views/builder/SummaryTab.vue
+msgid "Your quiz is ready!"
+msgstr ""
+
+#: src/admin/views/builder/tabOrder.js
+#: src/admin/views/builder/DesignDrawer.vue
+msgid "Design"
+msgstr ""
+
+#: src/admin/views/builder/tabOrder.js
+msgid "Endpoints"
+msgstr ""
+
+#: src/admin/views/builder/tabOrder.js
+#: src/admin/views/builder/FormPreview.vue
+msgid "Form"
+msgstr ""
+
+#: src/admin/views/builder/tabOrder.js
+#: src/admin/views/builder/IntroPreview.vue
+msgid "Intro"
+msgstr ""
+
+#: src/admin/views/builder/tabOrder.js
+msgid "Logic"
+msgstr ""
+
+#: src/admin/views/builder/tabOrder.js
+#: src/admin/layouts/AppLayout.vue
+msgid "Overview"
+msgstr ""
+
+#: src/admin/views/builder/tabOrder.js
+#: src/admin/views/builder/QuestionsTab.vue
+#: src/admin/views/builder/PerQuizAnalytics.vue
+#: src/frontend/screens/Intro.vue
+msgid "Questions"
+msgstr ""
+
+#: src/admin/views/builder/tabOrder.js
+#: src/admin/views/builder/ResultsTab.vue
+msgid "Results"
+msgstr ""
+
+#: src/admin/views/builder/tabOrder.js
+msgid "Score bands"
+msgstr ""
+
+#: src/admin/views/builder/tabOrder.js
+msgid "Summary"
+msgstr ""
+
+#: src/admin/views/builder/tabOrder.js
+msgid "Tally"
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "\"%s\" is ready to edit."
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "\"%s\" requires Quizably Pro. Upgrade to import it."
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+#: src/admin/views/builder/IntroPreview.vue
+msgid "%d question"
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "%s quizzes require Quizably Pro. Upgrade coming soon."
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Auto-generated from the title — edit to customize."
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+#: src/admin/views/builder/BuilderTopbar.vue
+#: src/frontend/screens/Question.vue
+#: src/frontend/screens/Form.vue
+msgid "Back"
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Branching / Lead Qualifier"
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Browse %s ready-made quizzes with real questions, results, and content."
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Browse templates →"
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Choose a ready-made quiz template or build your own from scratch."
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Choose a starter quiz"
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Choose a template"
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Choose a Template"
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Click a template to select it, then click \"Use this template\" to continue."
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Collect responses, show a tailored result."
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Conditional paths based on answers."
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Could not create quiz"
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+#: src/admin/views/builder/DesignTab.vue
+msgid "Could not load templates"
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Create quiz"
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Details"
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "e.g. What's Your Coffee Personality?"
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "How do you want to start?"
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+#: src/admin/views/builder/DesignTab.vue
+msgid "Loading templates…"
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Multi-category scoring across results."
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Name your quiz"
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "New quiz · %s"
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "New quiz · Choose a template"
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "One question, live vote results."
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Personality / Result"
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Pick a quiz type, choose a template, and write your own questions from scratch."
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Pick a type. Design and behavior are editable later — type determines how results are calculated."
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Please check the fields and try again."
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Poll / Single question"
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+#: src/admin/views/builder/SettingsTab.vue
+#: src/admin/views/builder/FormProperties.vue
+#: src/admin/views/builder/DesignTab.vue
+#: src/admin/views/builder/BuilderTabs.vue
+msgid "Pro feature"
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Pro preset"
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+#: src/admin/views/builder/DesignTab.vue
+msgid "Pro template"
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Quiz created"
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+#: src/admin/views/builder/BuilderTopbar.vue
+msgid "Quiz title"
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Right/wrong questions with a final score."
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Selected"
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Setup progress"
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Slug"
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Slug already in use — try: %s"
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Start Blank"
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Start from scratch →"
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Starting designs — colors, fonts, and layout are all editable afterward in the Design tab."
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Survey / Form"
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "The title is pre-filled from the template — rename it to anything you like."
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Title must be at least 2 characters."
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Trivia / Score-based"
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Unexpected error."
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Weighted Assessment"
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "What kind of quiz are you building?"
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Which X are you? Answers map to results."
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "You can change these later. The slug is used in the URL if you enable a dedicated quiz page."
+msgstr ""
+
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Your new quiz is ready."
+msgstr ""
+
+#: src/admin/views/dashboard/PresetGallery.vue
+msgid "%d Q"
+msgstr ""
+
+#: src/admin/views/dashboard/PresetGallery.vue
+#: src/admin/views/dashboard/NewQuizModal.vue
+#: src/admin/views/builder/DesignTab.vue
+msgid "%s preview"
+msgstr ""
+
+#: src/admin/views/dashboard/PresetGallery.vue
+msgid "All"
+msgstr ""
+
+#: src/admin/views/dashboard/PresetGallery.vue
+msgid "No presets match your filters."
+msgstr ""
+
+#: src/admin/views/dashboard/PresetGallery.vue
+msgid "Pro ✦"
+msgstr ""
+
+#: src/admin/views/dashboard/PresetGallery.vue
+msgid "Pro required"
+msgstr ""
+
+#: src/admin/views/dashboard/PresetGallery.vue
+#: src/admin/views/dashboard/NewQuizModal.vue
+#: src/admin/views/builder/DesignTab.vue
+msgid "Template"
+msgstr ""
+
+#: src/admin/views/dashboard/PresetGallery.vue
+msgid "Use this template →"
+msgstr ""
+
+#: src/admin/views/dashboard/QuizActionsMenu.vue
+msgid "Actions for %s"
+msgstr ""
+
+#: src/admin/views/dashboard/QuizActionsMenu.vue
+msgid "Archive"
+msgstr ""
+
+#: src/admin/views/dashboard/QuizActionsMenu.vue
+msgid "Could not export quiz."
+msgstr ""
+
+#: src/admin/views/dashboard/QuizActionsMenu.vue
+msgid "Edit"
+msgstr ""
+
+#: src/admin/views/dashboard/QuizActionsMenu.vue
+msgid "Export"
+msgstr ""
+
+#: src/admin/views/dashboard/QuizActionsMenu.vue
+msgid "Publish"
+msgstr ""
+
+#: src/admin/views/dashboard/QuizActionsMenu.vue
+msgid "Restore"
+msgstr ""
+
+#: src/admin/views/dashboard/QuizActionsMenu.vue
+msgid "Set to draft"
+msgstr ""
+
+#: src/admin/views/dashboard/QuizActionsMenu.vue
+msgid "untitled quiz"
+msgstr ""
+
+#: src/admin/views/dashboard/QuizCard.vue
+msgid "completion"
+msgstr ""
+
+#: src/admin/views/dashboard/QuizCard.vue
+msgid "Edited %s"
+msgstr ""
+
+#: src/admin/views/dashboard/QuizCard.vue
+msgid "recently"
+msgstr ""
+
+#: src/admin/views/dashboard/QuizCard.vue
+msgid "submissions"
+msgstr ""
+
+#: src/admin/views/dashboard/QuizFilters.vue
+msgid "All statuses"
+msgstr ""
+
+#: src/admin/views/dashboard/QuizFilters.vue
+msgid "Branching · Pro"
+msgstr ""
+
+#: src/admin/views/dashboard/QuizFilters.vue
+msgid "Filter by status"
+msgstr ""
+
+#: src/admin/views/dashboard/QuizFilters.vue
+msgid "Last updated"
+msgstr ""
+
+#: src/admin/views/dashboard/QuizFilters.vue
+msgid "Recently created"
+msgstr ""
+
+#: src/admin/views/dashboard/QuizFilters.vue
+msgid "Search by title or tag…"
+msgstr ""
+
+#: src/admin/views/dashboard/QuizFilters.vue
+msgid "Search quizzes"
+msgstr ""
+
+#: src/admin/views/dashboard/QuizFilters.vue
+msgid "Sort quizzes"
+msgstr ""
+
+#: src/admin/views/dashboard/QuizFilters.vue
+msgid "Title A–Z"
+msgstr ""
+
+#: src/admin/views/dashboard/QuizFilters.vue
+msgid "Weighted · Pro"
+msgstr ""
+
+#: src/admin/views/dashboard/QuizListTable.vue
+#: src/admin/views/builder/PerQuizAnalytics.vue
+msgid "Completion"
+msgstr ""
+
+#: src/admin/views/dashboard/QuizListTable.vue
+msgid "Status"
+msgstr ""
+
+#: src/admin/views/dashboard/QuizListTable.vue
+msgid "Title"
+msgstr ""
+
+#: src/admin/views/dashboard/QuizListTable.vue
+msgid "Updated"
+msgstr ""
+
+#: src/admin/views/dashboard/ReviewPrompt.vue
+msgid "Don't ask again"
+msgstr ""
+
+#: src/admin/views/dashboard/ReviewPrompt.vue
+msgid "If Quizably has been useful, a quick review on WordPress.org helps other site owners find it — and tells us what to build next."
+msgstr ""
+
+#: src/admin/views/dashboard/ReviewPrompt.vue
+msgid "Leave a review"
+msgstr ""
+
+#: src/admin/views/dashboard/ReviewPrompt.vue
+msgid "Maybe later"
+msgstr ""
+
+#: src/admin/views/dashboard/ReviewPrompt.vue
+msgid "Review request"
+msgstr ""
+
+#: src/admin/views/dashboard/ReviewPrompt.vue
+msgid "You've been building with Quizably for a while now."
+msgstr ""
+
+#: src/admin/views/dashboard/ReviewPrompt.vue
+msgid "Your quizzes have been completed %s time so far."
+msgstr ""
+
+#: src/admin/views/dashboard/ReviewPrompt.vue
+msgid "Your quizzes have captured %s lead so far."
+msgstr ""
+
+#: src/admin/views/dashboard/SubmissionsChart.vue
+msgid "%s completed"
+msgstr ""
+
+#: src/admin/views/dashboard/SubmissionsChart.vue
+msgid "%s submissions over the last 30 days"
+msgstr ""
+
+#: src/admin/views/dashboard/SubmissionsChart.vue
+msgid "Daily completes"
+msgstr ""
+
+#: src/admin/views/dashboard/SubmissionsChart.vue
+msgid "No submissions yet — share a quiz link to get rolling."
+msgstr ""
+
+#: src/admin/views/dashboard/SubmissionsChart.vue
+msgid "Submissions, last 30 days"
+msgstr ""
+
+#: src/admin/views/dashboard/TopQuizzesChart.vue
+msgid "By completed submissions"
+msgstr ""
+
+#: src/admin/views/dashboard/TopQuizzesChart.vue
+msgid "No completed submissions in the window."
+msgstr ""
+
+#: src/admin/views/dashboard/TopQuizzesChart.vue
+msgid "Top quizzes, last 30 days"
+msgstr ""
+
+#: src/admin/views/dashboard/TopQuizzesChart.vue
+msgid "Untitled"
+msgstr ""
+
+#: src/admin/views/DashboardView.vue
+msgid "%s submission in the last 30 days."
+msgstr ""
+
+#: src/admin/views/DashboardView.vue
+#: src/admin/views/dashboard/QuizListTable.vue
+#: src/admin/views/dashboard/QuizFilters.vue
+#: src/admin/views/dashboard/QuizCard.vue
+msgid "Archived"
+msgstr ""
+
+#: src/admin/views/DashboardView.vue
+msgid "Browse question bank"
+msgstr ""
+
+#: src/admin/views/DashboardView.vue
+msgid "Build your first quiz"
+msgstr ""
+
+#: src/admin/views/DashboardView.vue
+msgid "Build your first quiz to start collecting responses."
+msgstr ""
+
+#: src/admin/views/DashboardView.vue
+msgid "Completed, last 30 days"
+msgstr ""
+
+#: src/admin/views/DashboardView.vue
+msgid "Completion rate"
+msgstr ""
+
+#: src/admin/views/DashboardView.vue
+msgid "Configure defaults"
+msgstr ""
+
+#: src/admin/views/DashboardView.vue
+msgid "Connect a tool"
+msgstr ""
+
+#: src/admin/views/DashboardView.vue
+#: src/admin/views/dashboard/QuizListTable.vue
+#: src/admin/views/dashboard/QuizFilters.vue
+#: src/admin/views/dashboard/QuizCard.vue
+msgid "Draft"
+msgstr ""
+
+#: src/admin/views/DashboardView.vue
+msgid "Embed anywhere"
+msgstr ""
+
+#: src/admin/views/DashboardView.vue
+msgid "Export, filter, and follow up."
+msgstr ""
+
+#: src/admin/views/DashboardView.vue
+msgid "Forms, last 30 days"
+msgstr ""
+
+#: src/admin/views/DashboardView.vue
+msgid "Good afternoon"
+msgstr ""
+
+#: src/admin/views/DashboardView.vue
+msgid "Good evening"
+msgstr ""
+
+#: src/admin/views/DashboardView.vue
+msgid "Good morning"
+msgstr ""
+
+#: src/admin/views/DashboardView.vue
+msgid "Here’s what’s happening across your quizzes."
+msgstr ""
+
+#: src/admin/views/DashboardView.vue
+msgid "Jump straight to where you were going."
+msgstr ""
+
+#: src/admin/views/DashboardView.vue
+msgid "Leads captured"
+msgstr ""
+
+#: src/admin/views/DashboardView.vue
+msgid "Live across all statuses"
+msgstr ""
+
+#: src/admin/views/DashboardView.vue
+#: src/admin/views/dashboard/QuizListTable.vue
+#: src/admin/views/dashboard/QuizFilters.vue
+#: src/admin/views/dashboard/QuizCard.vue
+msgid "Published"
+msgstr ""
+
+#: src/admin/views/DashboardView.vue
+msgid "Quick actions"
+msgstr ""
+
+#: src/admin/views/DashboardView.vue
+msgid "Recent quizzes"
+msgstr ""
+
+#: src/admin/views/DashboardView.vue
+msgid "Reuse questions across quizzes."
+msgstr ""
+
+#: src/admin/views/DashboardView.vue
+msgid "Review leads"
+msgstr ""
+
+#: src/admin/views/DashboardView.vue
+msgid "Send results to your CRM via webhook."
+msgstr ""
+
+#: src/admin/views/DashboardView.vue
+msgid "Site-wide KPIs"
+msgstr ""
+
+#: src/admin/views/DashboardView.vue
+msgid "Start with a template — it takes 2 minutes."
+msgstr ""
+
+#: src/admin/views/DashboardView.vue
+msgid "Started → Finished, all-time"
+msgstr ""
+
+#: src/admin/views/DashboardView.vue
+msgid "Still up"
+msgstr ""
+
+#: src/admin/views/DashboardView.vue
+#: src/admin/views/dashboard/QuizListTable.vue
+#: src/admin/views/builder/PerQuizAnalytics.vue
+msgid "Submissions"
+msgstr ""
+
+#: src/admin/views/DashboardView.vue
+msgid "Tip"
+msgstr ""
+
+#: src/admin/views/DashboardView.vue
+msgid "Use the %s shortcode or the Quiz Builder Gutenberg block to drop a quiz into any post or page."
+msgstr ""
+
+#: src/admin/views/DashboardView.vue
+msgid "View all"
+msgstr ""
+
+#: src/admin/views/DashboardView.vue
+msgid "Your last %d edits"
+msgstr ""
+
+#: src/admin/views/DashboardView.vue
+msgid "Your quizzes are live but quiet — share the link to drive responses."
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "%s is included with Pro"
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "%s is now configured."
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+#: src/admin/views/dashboard/NewQuizModal.vue
+#: src/admin/views/builder/QuestionsTab.vue
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "%s requires Quizably Pro. Upgrade coming soon."
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "Add contacts to a Brevo list."
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Add leads to a Mailchimp audience with tags."
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Add subscribers to a MailerLite group."
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "API Key"
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "API URL"
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Append each submission as a new row."
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Audience ID"
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+#: src/admin/views/questionBank/QuestionBankEditor.vue
+#: src/admin/views/dashboard/NewQuizModal.vue
+#: src/admin/ui/ConfirmDialog.vue
+msgid "Cancel"
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "Configure"
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "Configure %s"
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "Configure integration"
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "Configure webhook"
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "Connect to your favorite email services."
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Connected"
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "Contacts will be added to this list if set."
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Could not load integrations"
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "Could not save credentials"
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "Could not save webhook"
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "Create ActiveCampaign contacts with form data."
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Create HubSpot contacts with form data."
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "Credentials saved"
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "Default webhook URL"
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "Edit webhook"
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "Enter your API credentials below. They are stored securely in your WordPress options table."
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "Find this under Account → Extras → API Keys in Mailchimp."
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Form ID"
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "Found in Account Settings → Advanced."
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "Found in Audience → Settings → Audience name and defaults."
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "Found under Integrations → API in MailerLite."
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "Found under Settings → Developer."
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "Found under SMTP & API in your Brevo account."
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+#: src/admin/views/dashboard/NewQuizModal.vue
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Free"
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "Group ID (optional)"
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "Leave blank to add contacts without a list."
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "Leave blank to disable the default webhook."
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "List ID (optional)"
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Loading integrations…"
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "Not connected"
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "Open a quiz → Integrations tab to wire up an API key for this provider."
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "POST JSON of each submission to your endpoint."
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Pro integration"
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "Save credentials"
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "Save webhook"
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "Send every quiz submission to your own endpoint with a webhook."
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Subscribe leads to a ConvertKit form."
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "Subscribers will be added to this group if set."
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "The default webhook was removed."
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "The numeric ID of the form subscribers will be added to."
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "This URL is now the default for new quizzes."
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "Trigger Zaps from submissions."
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "Upgrade to connect"
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "We POST JSON of every submission to your endpoint. Use this as a default for new quizzes — individual quizzes can still override this URL in their Integrations tab."
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "Webhook cleared"
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "Webhook saved"
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "Your ActiveCampaign account URL (no trailing slash)."
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "Your ActiveCampaign API key"
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "Your Brevo API key"
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "Your ConvertKit API key"
+msgstr ""
+
+#: src/admin/views/IntegrationsView.vue
+msgid "Your MailerLite API key"
+msgstr ""
+
+#: src/admin/views/leads/LeadDetailPanel.vue
+msgid "\"%s\""
+msgstr ""
+
+#: src/admin/views/leads/LeadDetailPanel.vue
+msgid "Completed"
+msgstr ""
+
+#: src/admin/views/leads/LeadDetailPanel.vue
+msgid "Contact"
+msgstr ""
+
+#: src/admin/views/leads/LeadDetailPanel.vue
+msgid "Custom fields"
+msgstr ""
+
+#: src/admin/views/leads/LeadDetailPanel.vue
+#: src/admin/views/builder/FormProperties.vue
+msgid "Double opt-in"
+msgstr ""
+
+#: src/admin/views/leads/LeadDetailPanel.vue
+#: src/admin/views/builder/QuestionsTab.vue
+#: src/admin/views/builder/QuestionPreview.vue
+#: src/admin/views/builder/QuestionListItem.vue
+msgid "Dropdown"
+msgstr ""
+
+#: src/admin/views/leads/LeadDetailPanel.vue
+msgid "Failed to load submission detail."
+msgstr ""
+
+#: src/admin/views/leads/LeadDetailPanel.vue
+msgid "GDPR consent"
+msgstr ""
+
+#: src/admin/views/leads/LeadDetailPanel.vue
+#: src/admin/views/builder/QuestionsTab.vue
+#: src/admin/views/builder/QuestionPreview.vue
+#: src/admin/views/builder/QuestionListItem.vue
+msgid "Image choice"
+msgstr ""
+
+#: src/admin/views/leads/LeadDetailPanel.vue
+msgid "Incorrect"
+msgstr ""
+
+#: src/admin/views/leads/LeadDetailPanel.vue
+msgid "Integration sync"
+msgstr ""
+
+#: src/admin/views/leads/LeadDetailPanel.vue
+msgid "Lead detail"
+msgstr ""
+
+#: src/admin/views/leads/LeadDetailPanel.vue
+msgid "Loading submission…"
+msgstr ""
+
+#: src/admin/views/leads/LeadDetailPanel.vue
+#: src/admin/views/builder/QuestionsTab.vue
+#: src/admin/views/builder/QuestionPreview.vue
+#: src/admin/views/builder/QuestionListItem.vue
+msgid "Multiple choice"
+msgstr ""
+
+#: src/admin/views/leads/LeadDetailPanel.vue
+#: src/admin/views/builder/FormProperties.vue
+msgid "No"
+msgstr ""
+
+#: src/admin/views/leads/LeadDetailPanel.vue
+msgid "No completed submission found for this lead."
+msgstr ""
+
+#: src/admin/views/leads/LeadDetailPanel.vue
+msgid "Pending"
+msgstr ""
+
+#: src/admin/views/leads/LeadDetailPanel.vue
+#: src/admin/views/builder/FormProperties.vue
+#: src/admin/views/builder/FormPreview.vue
+msgid "Phone"
+msgstr ""
+
+#: src/admin/views/leads/LeadDetailPanel.vue
+msgid "Quiz result"
+msgstr ""
+
+#: src/admin/views/leads/LeadDetailPanel.vue
+#: src/admin/views/builder/QuestionsTab.vue
+#: src/admin/views/builder/QuestionPreview.vue
+#: src/admin/views/builder/QuestionListItem.vue
+msgid "Rating"
+msgstr ""
+
+#: src/admin/views/leads/LeadDetailPanel.vue
+#: src/admin/views/builder/tabOrder.js
+#: src/admin/views/builder/ResultsTab.vue
+#: src/admin/views/builder/ResultPreview.vue
+#: src/admin/views/builder/ResultListItem.vue
+#: src/admin/views/builder/LogicProUpsell.vue
+#: src/admin/views/builder/AnswerRow.vue
+msgid "Result"
+msgstr ""
+
+#: src/admin/views/leads/LeadDetailPanel.vue
+msgid "Score"
+msgstr ""
+
+#: src/admin/views/leads/LeadDetailPanel.vue
+#: src/admin/views/builder/QuestionsTab.vue
+#: src/admin/views/builder/QuestionPreview.vue
+#: src/admin/views/builder/QuestionListItem.vue
+msgid "Slider"
+msgstr ""
+
+#: src/admin/views/leads/LeadDetailPanel.vue
+msgid "Submitted"
+msgstr ""
+
+#: src/admin/views/leads/LeadDetailPanel.vue
+#: src/admin/views/builder/DesignTab.vue
+msgid "Text"
+msgstr ""
+
+#: src/admin/views/leads/LeadDetailPanel.vue
+msgid "UTM parameters"
+msgstr ""
+
+#: src/admin/views/leads/LeadDetailPanel.vue
+msgid "Verified"
+msgstr ""
+
+#: src/admin/views/leads/LeadDetailPanel.vue
+#: src/admin/views/builder/FormProperties.vue
+msgid "Yes"
+msgstr ""
+
+#: src/admin/views/leads/LeadDetailPanel.vue
+msgid "Yes / No"
+msgstr ""
+
+#: src/admin/views/leads/LeadsTable.vue
+#: src/admin/views/dashboard/QuizListTable.vue
+msgid "Actions"
+msgstr ""
+
+#: src/admin/views/leads/LeadsTable.vue
+msgid "campaign: %s"
+msgstr ""
+
+#: src/admin/views/leads/LeadsTable.vue
+msgid "content: %s"
+msgstr ""
+
+#: src/admin/views/leads/LeadsTable.vue
+msgid "Delete lead"
+msgstr ""
+
+#: src/admin/views/leads/LeadsTable.vue
+msgid "medium: %s"
+msgstr ""
+
+#: src/admin/views/leads/LeadsTable.vue
+#: src/admin/views/leads/LeadDetailPanel.vue
+#: src/admin/views/builder/FormProperties.vue
+#: src/admin/views/builder/FormPreview.vue
+#: src/frontend/screens/Form.vue
+msgid "Name"
+msgstr ""
+
+#: src/admin/views/leads/LeadsTable.vue
+msgid "Not synced"
+msgstr ""
+
+#: src/admin/views/leads/LeadsTable.vue
+msgid "source: %s"
+msgstr ""
+
+#: src/admin/views/leads/LeadsTable.vue
+msgid "Submitted at"
+msgstr ""
+
+#: src/admin/views/leads/LeadsTable.vue
+msgid "Sync status"
+msgstr ""
+
+#: src/admin/views/leads/LeadsTable.vue
+msgid "term: %s"
+msgstr ""
+
+#: src/admin/views/leads/LeadsTable.vue
+msgid "UTM"
+msgstr ""
+
+#: src/admin/views/leads/LeadsTable.vue
+msgid "View submission detail"
+msgstr ""
+
+#: src/admin/views/LeadsView.vue
+msgid "All quizzes"
+msgstr ""
+
+#: src/admin/views/LeadsView.vue
+msgid "Clear all"
+msgstr ""
+
+#: src/admin/views/LeadsView.vue
+msgid "Could not load leads"
+msgstr ""
+
+#: src/admin/views/LeadsView.vue
+msgid "Delete this lead? This cannot be undone."
+msgstr ""
+
+#: src/admin/views/LeadsView.vue
+msgid "Downloaded %d lead(s)."
+msgstr ""
+
+#: src/admin/views/LeadsView.vue
+msgid "Email: %s"
+msgstr ""
+
+#: src/admin/views/LeadsView.vue
+msgid "Every form submission captured across your quizzes."
+msgstr ""
+
+#: src/admin/views/LeadsView.vue
+#: src/admin/views/builder/PerQuizAnalytics.vue
+msgid "Export CSV"
+msgstr ""
+
+#: src/admin/views/LeadsView.vue
+#: src/admin/views/dashboard/QuizActionsMenu.vue
+#: src/admin/views/builder/PerQuizAnalytics.vue
+msgid "Export failed"
+msgstr ""
+
+#: src/admin/views/LeadsView.vue
+msgid "Export failed (%s)"
+msgstr ""
+
+#: src/admin/views/LeadsView.vue
+#: src/admin/views/builder/PerQuizAnalytics.vue
+msgid "Export ready"
+msgstr ""
+
+#: src/admin/views/LeadsView.vue
+msgid "Export started"
+msgstr ""
+
+#: src/admin/views/LeadsView.vue
+msgid "Export the current filtered list as CSV"
+msgstr ""
+
+#: src/admin/views/LeadsView.vue
+msgid "From"
+msgstr ""
+
+#: src/admin/views/LeadsView.vue
+msgid "From: %s"
+msgstr ""
+
+#: src/admin/views/LeadsView.vue
+msgid "Lead deleted"
+msgstr ""
+
+#: src/admin/views/LeadsView.vue
+msgid "leads total"
+msgstr ""
+
+#: src/admin/views/LeadsView.vue
+msgid "Loading leads…"
+msgstr ""
+
+#: src/admin/views/LeadsView.vue
+msgid "No leads match your filters"
+msgstr ""
+
+#: src/admin/views/LeadsView.vue
+msgid "No leads to export"
+msgstr ""
+
+#: src/admin/views/LeadsView.vue
+msgid "No leads yet"
+msgstr ""
+
+#: src/admin/views/LeadsView.vue
+msgid "No quizzes match \"%s\""
+msgstr ""
+
+#: src/admin/views/LeadsView.vue
+msgid "Once visitors opt in through a quiz, they'll appear here."
+msgstr ""
+
+#: src/admin/views/LeadsView.vue
+msgid "Quiz #%d"
+msgstr ""
+
+#: src/admin/views/LeadsView.vue
+msgid "Quiz: %s"
+msgstr ""
+
+#: src/admin/views/LeadsView.vue
+msgid "Search by email…"
+msgstr ""
+
+#: src/admin/views/LeadsView.vue
+msgid "Search quizzes…"
+msgstr ""
+
+#: src/admin/views/LeadsView.vue
+msgid "To"
+msgstr ""
+
+#: src/admin/views/LeadsView.vue
+msgid "To: %s"
+msgstr ""
+
+#: src/admin/views/LeadsView.vue
+msgid "Try adjusting or clearing the filters above."
+msgstr ""
+
+#: src/admin/views/LeadsView.vue
+msgid "Your CSV download has begun."
+msgstr ""
+
+#: src/admin/views/LogicView.vue
+msgid "%d quiz hidden (need at least 2 questions with answer choices to branch)."
+msgstr ""
+
+#: src/admin/views/LogicView.vue
+#: src/admin/views/DashboardView.vue
+#: src/admin/views/dashboard/QuizListTable.vue
+#: src/admin/views/dashboard/QuizCard.vue
+#: src/admin/views/builder/OverviewTab.vue
+#: src/admin/data/presets.js
+msgid "Branching"
+msgstr ""
+
+#: src/admin/views/LogicView.vue
+msgid "Choose any quiz above to load its workflow."
+msgstr ""
+
+#: src/admin/views/LogicView.vue
+msgid "Could not load quiz"
+msgstr ""
+
+#: src/admin/views/LogicView.vue
+#: src/admin/views/builder/LogicTab.vue
+msgid "Could not save logic rule"
+msgstr ""
+
+#: src/admin/views/LogicView.vue
+msgid "Create a quiz with at least two questions that have answer choices — single, multi, true/false, dropdown, or image-choice all work — and come back here to wire up the flow."
+msgstr ""
+
+#: src/admin/views/LogicView.vue
+msgid "Go to All Quizzes"
+msgstr ""
+
+#: src/admin/views/LogicView.vue
+msgid "Loading %s…"
+msgstr ""
+
+#: src/admin/views/LogicView.vue
+msgid "No branchable quizzes yet"
+msgstr ""
+
+#: src/admin/views/LogicView.vue
+#: src/admin/views/DashboardView.vue
+#: src/admin/views/dashboard/QuizListTable.vue
+#: src/admin/views/dashboard/QuizFilters.vue
+#: src/admin/views/dashboard/QuizCard.vue
+#: src/admin/views/builder/OverviewTab.vue
+#: src/admin/data/presets.js
+#: src/frontend/screens/Intro.vue
+msgid "Personality"
+msgstr ""
+
+#: src/admin/views/LogicView.vue
+msgid "Pick a quiz from the dropdown"
+msgstr ""
+
+#: src/admin/views/LogicView.vue
+msgid "Pick a quiz to wire up its branching rules visually. Drag nodes to lay out the flow, click ports to connect answers to the next question (or to End the quiz)."
+msgstr ""
+
+#: src/admin/views/LogicView.vue
+#: src/admin/views/builder/ResultsTab.vue
+#: src/admin/views/builder/QuestionsTab.vue
+#: src/admin/views/builder/DesignTab.vue
+#: src/admin/views/builder/BuilderTopbar.vue
+msgid "Please try again."
+msgstr ""
+
+#: src/admin/views/LogicView.vue
+#: src/admin/views/DashboardView.vue
+#: src/admin/views/dashboard/QuizListTable.vue
+#: src/admin/views/dashboard/QuizFilters.vue
+#: src/admin/views/dashboard/QuizCard.vue
+#: src/admin/views/builder/OverviewTab.vue
+#: src/admin/data/presets.js
+#: src/frontend/screens/Intro.vue
+msgid "Poll"
+msgstr ""
+
+#: src/admin/views/LogicView.vue
+msgid "Pro · Workflow editor"
+msgstr ""
+
+#: src/admin/views/LogicView.vue
+msgid "quiz"
+msgstr ""
+
+#: src/admin/views/LogicView.vue
+msgid "Select a quiz…"
+msgstr ""
+
+#: src/admin/views/LogicView.vue
+#: src/admin/views/DashboardView.vue
+#: src/admin/views/dashboard/QuizListTable.vue
+#: src/admin/views/dashboard/QuizFilters.vue
+#: src/admin/views/dashboard/QuizCard.vue
+#: src/admin/views/builder/OverviewTab.vue
+#: src/admin/data/presets.js
+#: src/frontend/screens/Intro.vue
+msgid "Survey"
+msgstr ""
+
+#: src/admin/views/LogicView.vue
+msgid "That quiz could not be loaded. Try another from the dropdown."
+msgstr ""
+
+#: src/admin/views/LogicView.vue
+#: src/admin/views/DashboardView.vue
+#: src/admin/views/dashboard/QuizListTable.vue
+#: src/admin/views/dashboard/QuizFilters.vue
+#: src/admin/views/dashboard/QuizCard.vue
+#: src/admin/views/builder/OverviewTab.vue
+#: src/admin/data/presets.js
+#: src/frontend/screens/Intro.vue
+msgid "Trivia"
+msgstr ""
+
+#: src/admin/views/LogicView.vue
+#: src/admin/views/builder/LogicTab.vue
+#: src/admin/views/builder/IntegrationsTab.vue
+msgid "Unknown error"
+msgstr ""
+
+#: src/admin/views/LogicView.vue
+#: src/admin/views/DashboardView.vue
+#: src/admin/views/dashboard/QuizListTable.vue
+#: src/admin/views/dashboard/QuizCard.vue
+#: src/admin/views/builder/OverviewTab.vue
+#: src/admin/data/presets.js
+msgid "Weighted"
+msgstr ""
+
+#: src/admin/views/PlaceholderView.vue
+msgid "Phase %s"
+msgstr ""
+
+#: src/admin/views/questionBank/InsertFromBankModal.vue
+msgid "Clear"
+msgstr ""
+
+#: src/admin/views/questionBank/InsertFromBankModal.vue
+msgid "Insert"
+msgstr ""
+
+#: src/admin/views/questionBank/InsertFromBankModal.vue
+msgid "Insert failed"
+msgstr ""
+
+#: src/admin/views/questionBank/InsertFromBankModal.vue
+msgid "Insert from question bank"
+msgstr ""
+
+#: src/admin/views/questionBank/InsertFromBankModal.vue
+msgid "Inserted from bank"
+msgstr ""
+
+#: src/admin/views/questionBank/InsertFromBankModal.vue
+msgid "Inserting…"
+msgstr ""
+
+#: src/admin/views/questionBank/InsertFromBankModal.vue
+msgid "No matches. Try clearing search or tags."
+msgstr ""
+
+#: src/admin/views/questionBank/InsertFromBankModal.vue
+msgid "No quiz open"
+msgstr ""
+
+#: src/admin/views/questionBank/InsertFromBankModal.vue
+msgid "Open a quiz in the builder before inserting from the bank."
+msgstr ""
+
+#: src/admin/views/questionBank/InsertFromBankModal.vue
+msgid "Open Question Bank →"
+msgstr ""
+
+#: src/admin/views/questionBank/InsertFromBankModal.vue
+msgid "Question added"
+msgstr ""
+
+#: src/admin/views/questionBank/InsertFromBankModal.vue
+msgid "Search bank questions…"
+msgstr ""
+
+#: src/admin/views/questionBank/InsertFromBankModal.vue
+msgid "The bank is empty. Add questions in the Question Bank page to reuse them here."
+msgstr ""
+
+#: src/admin/views/questionBank/QuestionBankEditor.vue
+msgid "%d answer"
+msgstr ""
+
+#: src/admin/views/questionBank/QuestionBankEditor.vue
+msgid "+ Add answer"
+msgstr ""
+
+#: src/admin/views/questionBank/QuestionBankEditor.vue
+msgid "A short hint shown under the question."
+msgstr ""
+
+#: src/admin/views/questionBank/QuestionBankEditor.vue
+msgid "Add tag…"
+msgstr ""
+
+#: src/admin/views/questionBank/QuestionBankEditor.vue
+msgid "Add to bank"
+msgstr ""
+
+#: src/admin/views/questionBank/QuestionBankEditor.vue
+msgid "Added to bank"
+msgstr ""
+
+#: src/admin/views/questionBank/QuestionBankEditor.vue
+msgid "Answer %d"
+msgstr ""
+
+#: src/admin/views/questionBank/QuestionBankEditor.vue
+#: src/admin/views/leads/LeadDetailPanel.vue
+msgid "Answers"
+msgstr ""
+
+#: src/admin/views/questionBank/QuestionBankEditor.vue
+msgid "Any number of answers can be marked correct."
+msgstr ""
+
+#: src/admin/views/questionBank/QuestionBankEditor.vue
+#: src/admin/views/leads/LeadDetailPanel.vue
+#: src/admin/views/builder/AnswerRow.vue
+#: src/frontend/screens/Result.vue
+msgid "Correct"
+msgstr ""
+
+#: src/admin/views/questionBank/QuestionBankEditor.vue
+msgid "Delete this bank question? Quizzes that already use it will keep their copy."
+msgstr ""
+
+#: src/admin/views/questionBank/QuestionBankEditor.vue
+msgid "e.g. Which of these best describes your morning routine?"
+msgstr ""
+
+#: src/admin/views/questionBank/QuestionBankEditor.vue
+msgid "Edit bank question"
+msgstr ""
+
+#: src/admin/views/questionBank/QuestionBankEditor.vue
+#: src/admin/stores/quizBuilder.js
+#: src/frontend/questions/TrueFalse.vue
+msgid "False"
+msgstr ""
+
+#: src/admin/views/questionBank/QuestionBankEditor.vue
+msgid "Helper text (optional)"
+msgstr ""
+
+#: src/admin/views/questionBank/QuestionBankEditor.vue
+msgid "New bank question"
+msgstr ""
+
+#: src/admin/views/questionBank/QuestionBankEditor.vue
+msgid "One correct answer (or no correct, for personality quizzes)."
+msgstr ""
+
+#: src/admin/views/questionBank/QuestionBankEditor.vue
+msgid "Question text"
+msgstr ""
+
+#: src/admin/views/questionBank/QuestionBankEditor.vue
+msgid "Question text is required."
+msgstr ""
+
+#: src/admin/views/questionBank/QuestionBankEditor.vue
+msgid "Question updated"
+msgstr ""
+
+#: src/admin/views/questionBank/QuestionBankEditor.vue
+msgid "Remove answer"
+msgstr ""
+
+#: src/admin/views/questionBank/QuestionBankEditor.vue
+msgid "Remove tag"
+msgstr ""
+
+#: src/admin/views/questionBank/QuestionBankEditor.vue
+msgid "Save changes"
+msgstr ""
+
+#: src/admin/views/questionBank/QuestionBankEditor.vue
+msgid "Save failed"
+msgstr ""
+
+#: src/admin/views/questionBank/QuestionBankEditor.vue
+msgid "Tags"
+msgstr ""
+
+#: src/admin/views/questionBank/QuestionBankEditor.vue
+#: src/admin/stores/quizBuilder.js
+#: src/frontend/questions/TrueFalse.vue
+msgid "True"
+msgstr ""
+
+#: src/admin/views/questionBank/QuestionBankEditor.vue
+msgid "Two fixed options: True and False."
+msgstr ""
+
+#: src/admin/views/questionBank/QuestionBankEditor.vue
+#: src/admin/views/dashboard/QuizListTable.vue
+#: src/admin/views/dashboard/PresetGallery.vue
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "Type"
+msgstr ""
+
+#: src/admin/views/questionBank/QuestionBankEditor.vue
+msgid "Up to 10 tags. Press Enter or comma to add."
+msgstr ""
+
+#: src/admin/views/QuestionBankView.vue
+msgid "%d reusable question ready to go."
+msgstr ""
+
+#: src/admin/views/QuestionBankView.vue
+msgid "+%d"
+msgstr ""
+
+#: src/admin/views/QuestionBankView.vue
+#: src/admin/views/builder/QuestionsTab.vue
+msgid "Add question"
+msgstr ""
+
+#: src/admin/views/QuestionBankView.vue
+#: src/admin/views/builder/QuestionsTab.vue
+msgid "Add your first question"
+msgstr ""
+
+#: src/admin/views/QuestionBankView.vue
+#: src/admin/views/dashboard/QuizFilters.vue
+msgid "All types"
+msgstr ""
+
+#: src/admin/views/QuestionBankView.vue
+msgid "Clear tags"
+msgstr ""
+
+#: src/admin/views/QuestionBankView.vue
+msgid "Could not load bank"
+msgstr ""
+
+#: src/admin/views/QuestionBankView.vue
+#: src/admin/views/builder/QuestionListItem.vue
+msgid "Delete question"
+msgstr ""
+
+#: src/admin/views/QuestionBankView.vue
+msgid "Delete this question from the bank? Quizzes that already use it will keep their copy."
+msgstr ""
+
+#: src/admin/views/QuestionBankView.vue
+#: src/admin/views/builder/QuestionListItem.vue
+msgid "Duplicate question"
+msgstr ""
+
+#: src/admin/views/QuestionBankView.vue
+msgid "Duplicated"
+msgstr ""
+
+#: src/admin/views/QuestionBankView.vue
+#: src/admin/views/dashboard/QuizFilters.vue
+msgid "Filter by type"
+msgstr ""
+
+#: src/admin/views/QuestionBankView.vue
+#: src/admin/views/questionBank/InsertFromBankModal.vue
+msgid "Multi"
+msgstr ""
+
+#: src/admin/views/QuestionBankView.vue
+#: src/admin/views/questionBank/QuestionBankEditor.vue
+msgid "Multi choice"
+msgstr ""
+
+#: src/admin/views/QuestionBankView.vue
+msgid "No matches for the current filters. Try clearing search or tags."
+msgstr ""
+
+#: src/admin/views/QuestionBankView.vue
+msgid "No reusable questions yet"
+msgstr ""
+
+#: src/admin/views/QuestionBankView.vue
+msgid "Pro adds folders, bulk import / export, multi-question insert, AI-assisted generation, and the Pro question types (image-choice, dropdown, slider, rating) inside the bank."
+msgstr ""
+
+#: src/admin/views/QuestionBankView.vue
+msgid "Question <em>bank</em>"
+msgstr ""
+
+#: src/admin/views/QuestionBankView.vue
+#: src/admin/views/questionBank/QuestionBankEditor.vue
+#: src/admin/views/builder/QuestionsTab.vue
+msgid "Question deleted"
+msgstr ""
+
+#: src/admin/views/QuestionBankView.vue
+msgid "Reusable questions you can drop into any quiz."
+msgstr ""
+
+#: src/admin/views/QuestionBankView.vue
+msgid "Search question text…"
+msgstr ""
+
+#: src/admin/views/QuestionBankView.vue
+#: src/admin/views/questionBank/InsertFromBankModal.vue
+msgid "Single"
+msgstr ""
+
+#: src/admin/views/QuestionBankView.vue
+#: src/admin/views/questionBank/QuestionBankEditor.vue
+#: src/admin/views/leads/LeadDetailPanel.vue
+#: src/admin/views/builder/QuestionsTab.vue
+#: src/admin/views/builder/QuestionPreview.vue
+#: src/admin/views/builder/QuestionListItem.vue
+msgid "Single choice"
+msgstr ""
+
+#: src/admin/views/QuestionBankView.vue
+#: src/admin/views/questionBank/QuestionBankEditor.vue
+msgid "True / false"
+msgstr ""
+
+#: src/admin/views/QuestionBankView.vue
+#: src/admin/views/questionBank/InsertFromBankModal.vue
+msgid "True/False"
+msgstr ""
+
+#: src/admin/views/QuestionBankView.vue
+#: src/admin/views/builder/QuestionListItem.vue
+msgid "Untitled question"
+msgstr ""
+
+#: src/admin/views/QuestionBankView.vue
+#: src/admin/views/DashboardView.vue
+msgid "Updated %s"
+msgstr ""
+
+#: src/admin/views/QuestionBankView.vue
+msgid "Used in %d"
+msgstr ""
+
+#: src/admin/views/QuestionBankView.vue
+msgid "Want more from your bank?"
+msgstr ""
+
+#: src/admin/views/QuestionBankView.vue
+msgid "Write your first question — you'll be able to drop it into any quiz."
+msgstr ""
+
+#: src/admin/views/QuizBuilderView.vue
+#: src/admin/views/builder/BuilderTopbar.vue
+msgid "Back to quizzes"
+msgstr ""
+
+#: src/admin/views/QuizBuilderView.vue
+msgid "Loading quiz…"
+msgstr ""
+
+#: src/admin/views/QuizBuilderView.vue
+msgid "Quiz not found"
+msgstr ""
+
+#: src/admin/views/QuizBuilderView.vue
+msgid "The quiz you're looking for doesn't exist or was deleted."
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "“%1$s” will be copied — with its questions, results and settings — as a new draft called “%2$s”."
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "“%s” and all of its questions, results, submissions and leads will be permanently deleted. This cannot be undone."
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "\"%s\" was imported successfully."
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "%1$d published · %2$d draft"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "%1$s quiz · %2$d published"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+#: src/admin/views/LeadsView.vue
+msgid "%1$s–%2$s of %3$s"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+#: src/admin/views/DashboardView.vue
+msgid "%d archived"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+#: src/admin/views/DashboardView.vue
+msgid "%d draft"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+#: src/admin/views/DashboardView.vue
+msgid "%d published"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "%s (Copy)"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "A copy was created."
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "Across published quizzes"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "Archive failed"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "Avg completion"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "Build quizzes, capture leads, and route responses."
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "Card view"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "Clear filters"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "Completed submissions, last 30d"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "Copied “%s”"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "Could not import quiz."
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "Could not load quizzes"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "Could not update status"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "Create your first quiz"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "Create your first quiz to start capturing leads and delighting visitors."
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+#: src/admin/views/QuestionBankView.vue
+#: src/admin/views/questionBank/QuestionBankEditor.vue
+#: src/admin/views/dashboard/QuizActionsMenu.vue
+#: src/admin/views/builder/ResultListItem.vue
+#: src/admin/views/builder/QuestionListItem.vue
+msgid "Delete"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+#: src/admin/views/QuestionBankView.vue
+#: src/admin/views/LeadsView.vue
+#: src/admin/views/questionBank/QuestionBankEditor.vue
+msgid "Delete failed"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "Delete this quiz?"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+#: src/admin/views/QuestionBankView.vue
+#: src/admin/views/dashboard/QuizActionsMenu.vue
+#: src/admin/views/builder/QuestionListItem.vue
+msgid "Duplicate"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+#: src/admin/views/QuestionBankView.vue
+msgid "Duplicate failed"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "Duplicate this quiz?"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "Forms captured, last 30d"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "Import failed"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "Import quiz"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "Invalid file"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "Last 30 days"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "Leads · 30d"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "List view"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+#: src/admin/views/LogicView.vue
+msgid "Loading quizzes…"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "Moved back to Draft."
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+#: src/admin/views/DashboardView.vue
+#: src/admin/views/dashboard/NewQuizModal.vue
+msgid "New quiz"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+#: src/admin/views/dashboard/NewQuizModal.vue
+#: src/frontend/screens/Question.vue
+msgid "Next"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "No published quizzes yet"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "No quizzes match those filters"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+#: src/admin/views/DashboardView.vue
+msgid "No quizzes yet"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "Page %1$d of %2$d"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "Previous"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+#: src/admin/views/LogicView.vue
+#: src/admin/views/leads/LeadsTable.vue
+#: src/admin/views/leads/LeadDetailPanel.vue
+#: src/admin/views/dashboard/QuizListTable.vue
+#: src/admin/views/dashboard/QuizCard.vue
+#: src/frontend/screens/Intro.vue
+#: src/block-editor/main.js
+msgid "Quiz"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "Quiz archived"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "Quiz deleted"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "Quiz duplicated"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "Quiz imported"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "Quiz published"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "Quiz restored"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "Quiz set to draft"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "Restore failed"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "Submissions · 30d"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "The quiz is now a draft — it will not show on the site."
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "The selected file is not valid JSON."
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+#: src/admin/views/DashboardView.vue
+msgid "Total quizzes"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "Try a different status, type, or search term."
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+#: src/admin/views/LogicView.vue
+#: src/admin/views/DashboardView.vue
+#: src/admin/views/dashboard/QuizListTable.vue
+#: src/admin/views/dashboard/QuizCard.vue
+#: src/admin/views/builder/SummaryTab.vue
+#: src/admin/views/builder/BuilderTopbar.vue
+msgid "Untitled quiz"
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "Visitors can now see and take this quiz."
+msgstr ""
+
+#: src/admin/views/QuizzesView.vue
+msgid "Your <em>quizzes</em>"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "A new submission landed for {quiz_title}."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Accent color"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Active"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Administrator"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Alert message"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "All IPs are SHA-256 hashed before storage. The plain-text IP is never written to disk."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Always on"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Applied to new quizzes — change it per quiz in the Design tab."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Author"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Baseline data handling and the default consent text shown to your visitors."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+#: src/admin/views/builder/FormPreview.vue
+msgid "Before the quiz"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Brand color"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Branding"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Built-in roles"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Can create and edit quizzes; cannot edit settings or delete quizzes."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Can manage"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Capability mapping for the built-in WordPress roles."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Choose what you are emailed about, and where it goes."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Clears every global default back to the plugin's out-of-the-box values. Your quizzes, questions, leads, and submissions stay intact."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+#: src/admin/views/builder/DesignTab.vue
+msgid "Colors"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Communications"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Connect email marketing tools, CRMs, and webhooks for your quizzes."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Connections"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+#: src/admin/views/builder/FormProperties.vue
+msgid "Consent"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Copied into new quizzes that have a form (see Defaults > Default form position); each quiz can still change it."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Could not load settings"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Could not save license key"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+#: src/admin/views/builder/QuestionProperties.vue
+msgid "Could not save setting"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Current key"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Danger zone"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Data baseline"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Data handling"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Default — no override"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Default button shape"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Default consent text"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Default font"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Default form position"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Default template"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Defaults"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Defaults to the WP admin email if left empty."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Display name shown on outbound email."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Editor"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+#: src/admin/views/leads/LeadsTable.vue
+#: src/admin/views/leads/LeadDetailPanel.vue
+#: src/admin/views/builder/ResultProperties.vue
+#: src/admin/views/builder/ResultPreview.vue
+#: src/admin/views/builder/FormProperties.vue
+#: src/admin/views/builder/FormPreview.vue
+#: src/frontend/screens/Result.vue
+#: src/frontend/screens/Form.vue
+msgid "Email"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Email alerts"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Email alerts when quizzes capture submissions or new leads."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Email me on new leads"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Email me on new submissions"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+#: src/admin/views/builder/FormPreview.vue
+msgid "End of the quiz"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Enter or update license key"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "From address"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "From name"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Full access — including settings, integrations, and dangerous actions."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "General"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Global settings for third-party service connections."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "How visitor data is stored."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+#: src/admin/views/builder/FormProperties.vue
+#: src/admin/views/builder/FormPreview.vue
+msgid "I agree to receive follow-up emails about my results."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Insert a detail into the email"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Invalid"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Irreversible actions that affect every saved global setting."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Irreversible. Your quizzes, questions and leads are never touched."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Lead form"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Lets the admin reply directly to the user who submitted the quiz."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "License"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "License key"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "License key saved"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "License status"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Loading settings…"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Look & feel"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Manage integrations"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Manage your Quizably Pro license key."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "My Site"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "New submission: {quiz_title}"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "No default — prompt on each new quiz"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Not entered"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Notifications"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Notifications recipient"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Off — never collect"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "One message per quiz completion, sent to the recipient below."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Operations"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Paste your license key from your Quizably Pro purchase receipt. Keys must be at least 20 characters."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Paste your license key here…"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+#: src/admin/views/builder/DesignTab.vue
+msgid "Pill"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Pre-selected on the New Quiz modal."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Privacy"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Privacy & access"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+#: src/admin/views/QuestionBankView.vue
+#: src/admin/views/IntegrationsView.vue
+#: src/admin/views/dashboard/QuizCard.vue
+#: src/admin/views/dashboard/PresetGallery.vue
+#: src/admin/views/dashboard/NewQuizModal.vue
+#: src/admin/views/builder/SettingsTab.vue
+#: src/admin/views/builder/ResultProperties.vue
+#: src/admin/views/builder/ResultCard.vue
+#: src/admin/views/builder/QuestionsTab.vue
+#: src/admin/views/builder/IntegrationsTab.vue
+#: src/admin/views/builder/DesignTab.vue
+msgid "Pro"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Read-only"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Read-only — no access to quizzes, leads or settings."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Reply-To matches lead email"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+#: src/admin/views/builder/DesignTab.vue
+msgid "Reset"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Reset all"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Reset all settings"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Reset every global setting back to defaults? Quizzes, questions, and leads are untouched."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Reset failed"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Roles & access"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+#: src/admin/views/builder/DesignTab.vue
+msgid "Rounded"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Save key"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+#: src/admin/views/builder/BuilderTopbar.vue
+msgid "Saved"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+#: src/admin/views/builder/BuilderTopbar.vue
+msgid "Saved %ds ago"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+#: src/admin/views/builder/DesignDrawer.vue
+#: src/admin/views/builder/BuilderTopbar.vue
+msgid "Saving…"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Select a template"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Send quiz results to the other tools you use."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Send quiz submissions to your own endpoint with a webhook."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Sender"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Sender identity and message templates for transactional quiz emails."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Settings reset"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Settings sections"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+#: src/admin/views/builder/DesignTab.vue
+msgid "Sharp"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Starting values for new quizzes — editable per quiz afterward."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Subject line for new-submission alerts. Tokens: {quiz_title}, {site_title}."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Submission email body"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Submission email subject"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+#: src/admin/views/builder/DesignTab.vue
+msgid "System Sans-Serif"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "The address recipients see in their inbox."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "The checkbox wording new quiz forms start with."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "The colours new quizzes start with. Each quiz can still change them."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "The palette new quizzes start with. Each quiz can still change it in its Design tab."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "The stored key is masked for security."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "The wording of the new-submission email sent to you."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Triggers when a quiz captures a name or email via a form."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Typeface new quizzes start with — change it per quiz in the Design tab."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Use Integrations tab"
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Used for buttons, links, and progress indicators in new quizzes."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Used for highlights and secondary callouts in new quizzes."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "What a newly created quiz starts with. Each quiz can change these afterwards."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "What each WordPress role can already do with quizzes."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Where the lead-capture form appears in new quizzes."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Where the lead-capture form appears in newly created quizzes."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Who outbound quiz email appears to come from."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Write the email the way you want it to look. Click a detail below to drop it in at the cursor; it is filled in with the real value when the email is sent."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Your Pro license status and key."
+msgstr ""
+
+#: src/admin/views/SettingsView.vue
+msgid "Your Quizably Pro license key status."
+msgstr ""
+
+#: src/block-editor/main.js
+msgid "— Select a quiz —"
+msgstr ""
+
+#: src/block-editor/main.js
+msgid "Advance Quiz (rendered on the frontend):"
+msgstr ""
+
+#: src/block-editor/main.js
+msgid "Auto-start on load"
+msgstr ""
+
+#: src/block-editor/main.js
+msgid "Choose quiz"
+msgstr ""
+
+#: src/block-editor/main.js
+msgid "Skip the intro screen and go straight to the first question."
+msgstr ""
+
+#: src/frontend/components/DoubleOptinNotice.vue
+msgid "Check your inbox."
+msgstr ""
+
+#: src/frontend/components/DoubleOptinNotice.vue
+msgid "We sent a confirmation link to %s. Click it to finish subscribing."
+msgstr ""
+
+#: src/frontend/components/PollResults.vue
+msgid "%d vote"
+msgstr ""
+
+#: src/frontend/components/PollResults.vue
+msgid "%d vote in total"
+msgstr ""
+
+#: src/frontend/components/PollResults.vue
+msgid "Loading results..."
+msgstr ""
+
+#: src/frontend/components/PollResults.vue
+msgid "Results are not available right now."
+msgstr ""
+
+#: src/frontend/components/PollResults.vue
+msgid "Your vote"
+msgstr ""
+
+#: src/frontend/components/QuizResultChart.vue
+msgid "Result chart"
+msgstr ""
+
+#: src/frontend/questions/Dropdown.vue
+msgid "Choose an answer"
+msgstr ""
+
+#: src/frontend/questions/SingleChoice.vue
+#: src/frontend/questions/Dropdown.vue
+msgid "No answer options have been configured for this question yet."
+msgstr ""
+
+#: src/frontend/Quiz.vue
+msgid "your email address"
+msgstr ""
+
+#: src/frontend/screens/Completed.vue
+msgid "Take again"
+msgstr ""
+
+#: src/frontend/screens/Completed.vue
+msgid "Thank you"
+msgstr ""
+
+#: src/frontend/screens/Completed.vue
+msgid "We appreciate you taking the time. You can close this window."
+msgstr ""
+
+#: src/frontend/screens/Completed.vue
+msgid "Your response has been recorded."
+msgstr ""
+
+#: src/frontend/screens/Form.vue
+msgid "I agree to receive the result and related emails."
+msgstr ""
+
+#: src/frontend/screens/Form.vue
+msgid "Please accept consent to continue."
+msgstr ""
+
+#: src/frontend/screens/Form.vue
+msgid "Please enter your email."
+msgstr ""
+
+#: src/frontend/screens/Form.vue
+msgid "Please enter your name."
+msgstr ""
+
+#: src/frontend/screens/Intro.vue
+msgid "Takes"
+msgstr ""
+
+#: src/frontend/screens/Question.vue
+msgid "%d seconds remaining"
+msgstr ""
+
+#: src/frontend/screens/Question.vue
+msgid "%ds"
+msgstr ""
+
+#: src/frontend/screens/Question.vue
+msgid "Please answer this question to continue."
+msgstr ""
+
+#: src/frontend/screens/Question.vue
+msgid "Please choose an answer to continue."
+msgstr ""
+
+#: src/frontend/screens/Question.vue
+msgid "Submit"
+msgstr ""
+
+#: src/frontend/screens/Result.vue
+msgid "(skipped)"
+msgstr ""
+
+#: src/frontend/screens/Result.vue
+msgid "%1$d of %2$d correct"
+msgstr ""
+
+#: src/frontend/screens/Result.vue
+msgid "%s result chart"
+msgstr ""
+
+#: src/frontend/screens/Result.vue
+msgid "Check out my quiz result"
+msgstr ""
+
+#: src/frontend/screens/Result.vue
+msgid "correct"
+msgstr ""
+
+#: src/frontend/screens/Result.vue
+msgid "Hide answers"
+msgstr ""
+
+#: src/frontend/screens/Result.vue
+msgid "I got: %s"
+msgstr ""
+
+#: src/frontend/screens/Result.vue
+#: src/frontend/components/PollResults.vue
+msgid "Poll results"
+msgstr ""
+
+#: src/frontend/screens/Result.vue
+msgid "Retake quiz"
+msgstr ""
+
+#: src/frontend/screens/Result.vue
+msgid "Review answers"
+msgstr ""
+
+#: src/frontend/screens/Result.vue
+msgid "Score: %d"
+msgstr ""
+
+#: src/frontend/screens/Result.vue
+msgid "Share on %s"
+msgstr ""
+
+#: src/frontend/screens/Result.vue
+msgid "Share your result"
+msgstr ""
+
+#: src/frontend/screens/Result.vue
+msgid "Thanks for voting"
+msgstr ""
+
+#: src/frontend/screens/Result.vue
+msgid "Thanks!"
+msgstr ""
+
+#: src/frontend/screens/Result.vue
+msgid "Wrong"
+msgstr ""
+
+#: src/frontend/screens/Result.vue
+msgid "Your result"
+msgstr ""
+
+#: src/frontend/screens/Result.vue
+msgid "Your score"
+msgstr ""
+
+#: src/frontend/screens/ResumePrompt.vue
+msgid "Resume"
+msgstr ""
+
+#: src/frontend/screens/ResumePrompt.vue
+msgid "Resume where you left off?"
+msgstr ""
+
+#: src/frontend/screens/ResumePrompt.vue
+msgid "Start over"
+msgstr ""
+
+#: src/frontend/screens/ResumePrompt.vue
+msgid "Welcome back"
+msgstr ""
+
+#: src/frontend/screens/ResumePrompt.vue
+msgid "You have a quiz in progress. Pick up from there, or begin again."
+msgstr ""
+
+#: src/frontend/screens/ResumePrompt.vue
+msgid "You were on question %1$d of %2$d. Pick up from there, or begin again."
+msgstr ""
+
+#: src/php/Admin/Menu.php
+msgid "All Quizzes"
+msgstr ""
+
+#: src/php/Admin/Menu.php
+#: src/admin/layouts/AppLayout.vue
+msgid "Dashboard"
+msgstr ""
+
+#: src/php/Admin/Menu.php
+#: src/admin/views/SettingsView.vue
+#: src/admin/views/IntegrationsView.vue
+#: src/admin/views/builder/tabOrder.js
+#: src/admin/views/builder/IntegrationsTab.vue
+#: src/admin/layouts/AppLayout.vue
+msgid "Integrations"
+msgstr ""
+
+#: src/php/Admin/Menu.php
+#: src/admin/views/LeadsView.vue
+#: src/admin/views/builder/PerQuizAnalytics.vue
+#: src/admin/layouts/AppLayout.vue
+msgid "Leads"
+msgstr ""
+
+#: src/php/Admin/Menu.php
+#: src/admin/views/LogicView.vue
+msgid "Logic & Branching"
+msgstr ""
+
+#: src/php/Admin/Menu.php
+#: src/admin/layouts/AppLayout.vue
+msgid "Question Bank"
+msgstr ""
+
+#: src/php/Admin/Menu.php
+msgid "Quiz Builder"
+msgstr ""
+
+#: src/php/Admin/Menu.php
+#: src/admin/views/builder/tabOrder.js
+#: src/admin/views/builder/SettingsTab.vue
+#: src/admin/layouts/AppLayout.vue
+msgid "Settings"
+msgstr ""
+
+#: src/php/Admin/views/app-root.php
+#: src/admin/views/SettingsView.vue
+#: src/admin/views/QuizzesView.vue
+#: src/admin/views/QuestionBankView.vue
+#: src/admin/views/DashboardView.vue
+#: src/admin/views/questionBank/InsertFromBankModal.vue
+msgid "Loading…"
+msgstr ""
+
+#: src/php/Admin/views/app-root.php
+msgid "Quiz Builder assets are not built yet"
+msgstr ""
+
+#: src/php/Admin/views/app-root.php
+msgid "See README.md for full setup instructions."
+msgstr ""
+
+#: src/php/Admin/views/app-root.php
+msgid "This looks like a source checkout without a production build — assets/dist/ is generated by the build step and is not committed to git. Run this in the plugin directory, then reload this page:"
+msgstr ""
+
+#: src/php/Block/QuizBlock.php
+#: src/block-editor/main.js
+msgid "Advance Quiz"
+msgstr ""
+
+#: src/php/Block/QuizBlock.php
+#: src/block-editor/main.js
+msgid "Choose a quiz in the block settings."
+msgstr ""
+
+#: src/php/Frontend/OptinConfirmation.php
+msgid "Back to the site"
+msgstr ""
+
+#: src/php/Frontend/OptinConfirmation.php
+msgid "Confirmation link not valid"
+msgstr ""
+
+#: src/php/Frontend/OptinConfirmation.php
+msgid "Subscription confirmed"
+msgstr ""
+
+#: src/php/Frontend/OptinConfirmation.php
+msgid "Thank you. Your email address is confirmed."
+msgstr ""
+
+#: src/php/Frontend/OptinConfirmation.php
+msgid "This confirmation link is not valid. It may have been copied incorrectly."
+msgstr ""
+
+#: src/php/Frontend/OptinConfirmation.php
+msgid "This email address is already confirmed."
+msgstr ""
+
+#: src/php/Notification/Mailer.php
+msgid "A new lead has been captured."
+msgstr ""
+
+#: src/php/Notification/Mailer.php
+msgid "A quiz has been completed."
+msgstr ""
+
+#: src/php/Notification/Mailer.php
+msgid "Email: {user_email}"
+msgstr ""
+
+#: src/php/Notification/Mailer.php
+msgid "Name:  {user_name}"
+msgstr ""
+
+#: src/php/Notification/Mailer.php
+msgid "New quiz lead: {quiz_title} ({user_email})"
+msgstr ""
+
+#: src/php/Notification/Mailer.php
+msgid "New quiz submission: {quiz_title}"
+msgstr ""
+
+#: src/php/Notification/Mailer.php
+msgid "Quiz:   {quiz_title}"
+msgstr ""
+
+#: src/php/Notification/Mailer.php
+msgid "Quiz:  {quiz_title}"
+msgstr ""
+
+#: src/php/Notification/Mailer.php
+msgid "Result: {result_title}"
+msgstr ""
+
+#: src/php/Notification/Mailer.php
+msgid "Score:  {score}"
+msgstr ""
+
+#: src/php/Notification/Mailer.php
+msgid "Submission: {submission_uuid}"
+msgstr ""
+
+#: src/php/Notification/Mailer.php
+msgid "Type:   {quiz_type}"
+msgstr ""
+
+#: src/php/Notification/Mailer.php
+msgid "UUID:   {submission_uuid}"
+msgstr ""
+
+#: src/php/Optin/DoubleOptin.php
+msgid "Confirm your subscription"
+msgstr ""
+
+#: src/php/Optin/DoubleOptin.php
+msgid "Please click the link below to confirm your subscription:\\n\\n%s"
+msgstr ""
+
+#: src/php/REST/AnswerController.php
+msgid "Label is required"
+msgstr ""
+
+#: src/php/REST/AnswerController.php
+msgid "One or more IDs do not belong to the question"
+msgstr ""
+
+#: src/php/REST/BaseController.php
+msgid "%s not found"
+msgstr ""
+
+#: src/php/REST/BaseController.php
+msgid "Insufficient permissions."
+msgstr ""
+
+#: src/php/REST/PresetController.php
+msgid "This preset requires Quizably Pro."
+msgstr ""
+
+#: src/php/REST/PresetController.php
+msgid "Title is required."
+msgstr ""
+
+#: src/php/REST/PublicController.php
+msgid "Invalid confirmation token"
+msgstr ""
+
+#: src/php/REST/PublicController.php
+msgid "No scorer for type %s"
+msgstr ""
+
+#: src/php/REST/PublicController.php
+msgid "Quiz not available"
+msgstr ""
+
+#: src/php/REST/PublicController.php
+msgid "Quiz unavailable"
+msgstr ""
+
+#: src/php/REST/PublicController.php
+msgid "Submission already completed"
+msgstr ""
+
+#: src/php/REST/PublicController.php
+msgid "Submission could not be created"
+msgstr ""
+
+#: src/php/REST/PublicController.php
+msgid "This quiz is not a poll"
+msgstr ""
+
+#: src/php/REST/PublicController.php
+msgid "Too many attempts. Please slow down."
+msgstr ""
+
+#: src/php/REST/PublicController.php
+msgid "Valid email required"
+msgstr ""
+
+#: src/php/REST/QuestionBankController.php
+#: src/admin/stores/quizBuilder.js
+msgid "%s (copy)"
+msgstr ""
+
+#: src/php/REST/QuestionBankController.php
+msgid "Unsupported question type"
+msgstr ""
+
+#: src/php/REST/QuestionBankController.php
+msgid "Valid quiz_id is required"
+msgstr ""
+
+#: src/php/REST/QuestionController.php
+msgid "One or more IDs do not belong to the quiz"
+msgstr ""
+
+#: src/php/REST/QuestionController.php
+#: src/php/REST/AnswerController.php
+msgid "order must be an array of IDs"
+msgstr ""
+
+#: src/php/REST/QuizController.php
+msgid "Export payload is missing quiz data."
+msgstr ""
+
+#: src/php/REST/QuizController.php
+msgid "Request body must be a valid JSON export."
+msgstr ""
+
+#: src/php/REST/QuizController.php
+msgid "Slug already in use"
+msgstr ""
+
+#: src/php/REST/QuizController.php
+msgid "webhook_url is not a valid HTTP/HTTPS URL."
+msgstr ""
+
+#: src/php/REST/QuizController.php
+msgid "webhook_url is required."
+msgstr ""
+
+#: src/php/REST/ResultController.php
+#: src/php/REST/QuizController.php
+#: src/php/REST/QuestionController.php
+#: src/php/REST/QuestionBankController.php
+msgid "Title is required"
+msgstr ""
+
+#: src/php/REST/SettingsController.php
+msgid "%s must be a hex colour such as #4F46E5"
+msgstr ""
+
+#: src/php/REST/SettingsController.php
+msgid "%s must be a valid email address"
+msgstr ""
+
+#: src/php/REST/SettingsController.php
+msgid "config must be an object"
+msgstr ""
+
+#: src/php/REST/SettingsController.php
+msgid "default_optin_placement must be one of: %s"
+msgstr ""
+
+#: src/php/REST/SettingsController.php
+msgid "default_webhook_url must be a valid http or https URL"
+msgstr ""
+
+#: src/php/REST/SettingsController.php
+msgid "defaults_button_radius must be one of: %s"
+msgstr ""
+
+#: src/php/REST/SettingsController.php
+msgid "defaults_font_family must be one of: %s"
+msgstr ""
+
+#: src/php/REST/SettingsController.php
+msgid "key is required"
+msgstr ""
+
+#: src/php/REST/SettingsController.php
+msgid "No settings provided"
+msgstr ""
+
+#: src/php/REST/SettingsController.php
+msgid "Unknown integration key: %s"
+msgstr ""
+
+#: src/php/REST/SettingsController.php
+msgid "Unknown keys: %1$s. Allowed: %2$s"
+msgstr ""
+
+#: src/php/Shortcode/QuizPopupShortcode.php
+msgid "Close quiz"
+msgstr ""
+
+#: src/php/Shortcode/QuizResultShortcode.php
+msgid "Result not found."
+msgstr ""
+
+#: src/php/Shortcode/QuizResultShortcode.php
+msgid "Score:"
+msgstr ""
+
+#: src/php/Shortcode/QuizResultShortcode.php
+msgid "Your Result"
+msgstr ""
+
+#: src/php/Shortcode/QuizShortcode.php
+msgid "This quiz requires JavaScript."
+msgstr ""
+
+#: src/php/Shortcode/QuizSlideinShortcode.php
+#: src/admin/views/questionBank/InsertFromBankModal.vue
+#: src/admin/views/leads/LeadDetailPanel.vue
+#: src/admin/ui/Modal.vue
+#: src/admin/ui/Drawer.vue
+msgid "Close"
+msgstr ""
+
+#: src/shared/formPlacement.js
+msgid "Almost there"
+msgstr ""
+
+#: src/shared/formPlacement.js
+msgid "Before you start"
+msgstr ""
+
+#: src/shared/formPlacement.js
+msgid "Get your result"
+msgstr ""
+
+#: src/shared/formPlacement.js
+msgid "One moment"
+msgstr ""
+
+#: src/shared/formPlacement.js
+msgid "See my result"
+msgstr ""
+
+#: src/shared/formPlacement.js
+msgid "Stay in touch"
+msgstr ""
+
+#: src/shared/formPlacement.js
+msgid "Tell us about you"
+msgstr ""
+
+#: src/shared/i18n.js
+msgid "%d lead"
+msgstr ""
+
+#: src/shared/i18n.js
+msgid "Hi %s"
+msgstr ""
+
+#: src/shared/i18n.js
+msgid "Post"
+msgstr ""
+

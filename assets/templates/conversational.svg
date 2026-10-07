@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" font-family="Geist,system-ui,sans-serif">
+  <rect width="640" height="400" fill="#FAFAF7"/>
+
+  <!-- Avatar + name strip -->
+  <circle cx="60" cy="44" r="14" fill="#4F46E5"/>
+  <text x="60" y="49" text-anchor="middle" font-size="11" fill="#fff" font-weight="600">AQ</text>
+  <text x="84" y="40" font-size="13" font-weight="500" fill="#0A0A0B">Quiz Builder</text>
+  <text x="84" y="56" font-size="11" fill="#9A9A9F">typing…</text>
+
+  <!-- Bot bubble 1 -->
+  <g transform="translate(48 90)">
+    <rect width="320" height="56" rx="20" fill="#fff" stroke="#EAE8E1"/>
+    <rect x="0" y="40" width="20" height="20" rx="0 20 0 0" fill="#fff" stroke="#EAE8E1"/>
+    <text x="20" y="26" font-size="13" fill="#0A0A0B">Hi! Quick question to get started.</text>
+    <text x="20" y="45" font-size="13" fill="#0A0A0B">What's your weekend vibe?</text>
+  </g>
+
+  <!-- User bubble (typing-style answer chip) -->
+  <g transform="translate(220 170)">
+    <rect width="248" height="40" rx="20" fill="#4F46E5"/>
+    <text x="124" y="25" text-anchor="middle" font-size="13" fill="#fff" font-weight="500">Cozy night in with a book</text>
+  </g>
+
+  <!-- Bot typing dots -->
+  <g transform="translate(48 230)">
+    <rect width="120" height="40" rx="20" fill="#fff" stroke="#EAE8E1"/>
+    <circle cx="40" cy="20" r="4" fill="#9A9A9F"/>
+    <circle cx="60" cy="20" r="4" fill="#9A9A9F" opacity="0.6"/>
+    <circle cx="80" cy="20" r="4" fill="#9A9A9F" opacity="0.3"/>
+  </g>
+
+  <!-- Quick reply chips at bottom -->
+  <g transform="translate(48 320)">
+    <rect width="160" height="44" rx="22" fill="#fff" stroke="#4F46E5" stroke-width="1.5"/>
+    <text x="80" y="29" text-anchor="middle" font-size="13" fill="#4F46E5" font-weight="500">Adventure outdoors</text>
+  </g>
+  <g transform="translate(220 320)">
+    <rect width="160" height="44" rx="22" fill="#fff" stroke="#EAE8E1"/>
+    <text x="80" y="29" text-anchor="middle" font-size="13" fill="#0A0A0B">Brunch with friends</text>
+  </g>
+  <g transform="translate(392 320)">
+    <rect width="180" height="44" rx="22" fill="#fff" stroke="#EAE8E1"/>
+    <text x="90" y="29" text-anchor="middle" font-size="13" fill="#0A0A0B">Trying something new</text>
+  </g>
+</svg>
